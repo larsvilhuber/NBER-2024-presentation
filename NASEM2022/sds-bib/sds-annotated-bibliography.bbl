@@ -1,0 +1,3660 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{GreenstoneMasNguyen2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=23e2201fd0a08bee5f8f929d238f6472}{%
+           family={Greenstone},
+           familyi={G\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=949b13e4b4f8dba38734d2702d90cd56}{%
+           family={Mas},
+           familyi={M\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3ce611e29ee68fd2b4dda702723fed4}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Hoai-Luu},
+           giveni={H\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eaf807b53907fd809159caa53d039576}
+      \strng{fullhash}{eaf807b53907fd809159caa53d039576}
+      \strng{bibnamehash}{eaf807b53907fd809159caa53d039576}
+      \strng{authorbibnamehash}{eaf807b53907fd809159caa53d039576}
+      \strng{authornamehash}{eaf807b53907fd809159caa53d039576}
+      \strng{authorfullhash}{eaf807b53907fd809159caa53d039576}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We estimate the effect of the reduction in credit supply that followed the 2008 financial crisis on the real economy. We predict county lending shocks using variation in pre-crisis bank market shares and estimated bank supply-shifts. Counties with negative predicted shocks experienced declines in small business loan originations, indicating that it is costly for these businesses to find new lenders. Using confidential microdata from the Longitudinal Business Database, we find that the 2007-2009 lending shocks accounted for statistically significant, but economically small, declines in both small firm and overall employment. Predicted lending shocks affected lending but not employment from 1997-2007.}
+      \field{journaltitle}{American Economic Journal: Economic Policy}
+      \field{number}{1}
+      \field{title}{Do Credit Market Shocks affect the Real Economy? Quasi-Experimental Evidence from the Great Recession and ‘Normal’ Economic Times}
+      \field{volume}{12}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1257/pol.20160005
+      \endverb
+    \endentry
+    \entry{Osotimehin2018}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0960a3d9be7e9d97c03d41e406b2bb14}{%
+           family={Mukoyama},
+           familyi={M\bibinitperiod},
+           given={Toshihiko},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe719c4fce8bf98554d71a9b977d696e}{%
+           family={Osotimehin},
+           familyi={O\bibinitperiod},
+           given={Sophie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{37e01976dc79d0a37961b0ed80b5ce39}
+      \strng{fullhash}{37e01976dc79d0a37961b0ed80b5ce39}
+      \strng{bibnamehash}{37e01976dc79d0a37961b0ed80b5ce39}
+      \strng{authorbibnamehash}{37e01976dc79d0a37961b0ed80b5ce39}
+      \strng{authornamehash}{37e01976dc79d0a37961b0ed80b5ce39}
+      \strng{authorfullhash}{37e01976dc79d0a37961b0ed80b5ce39}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We study how factors that hinder the reallocation of inputs across firms influence aggregate productivity growth. We extend Hopenhayn and Rogerson's (1993) firm-dynamics model to allow for endogenous innovation. We evaluate the effects of firing taxes on reallocation, innovation, and productivity growth. We find firing taxes can have opposite effects on entrants' innovation and incumbents' innovation, and the overall outcome depends on the relative strengths of these forces. In the entrant-driven growth calibration, firing taxes reduce aggregate productivity growth, whereas aggregate productivity growth increases in the incumbent-driven growth calibration.}
+      \field{journaltitle}{American Economic Journal: Macroeconomics}
+      \field{number}{4}
+      \field{title}{Barriers to reallocation and economic growth: the effects of firing costs}
+      \field{volume}{11}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1257/mac.20170170
+      \endverb
+    \endentry
+    \entry{doi:10.1002/soej.12395}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5599b0be27723d0f76cfbc4ba88d98de}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81e66c451c94007c4f80cdb28035aa18}{%
+           family={Koedel},
+           familyi={K\bibinitperiod},
+           given={Cory},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b2c5cc4ce4e0cb4674c9c869d12fc090}
+      \strng{fullhash}{b2c5cc4ce4e0cb4674c9c869d12fc090}
+      \strng{bibnamehash}{b2c5cc4ce4e0cb4674c9c869d12fc090}
+      \strng{authorbibnamehash}{b2c5cc4ce4e0cb4674c9c869d12fc090}
+      \strng{authornamehash}{b2c5cc4ce4e0cb4674c9c869d12fc090}
+      \strng{authorfullhash}{b2c5cc4ce4e0cb4674c9c869d12fc090}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We study redistribution via the U.S. Social Security retirement system for cohorts of men born during the second half of the 20th century. Our focus is on redistribution across race and education groups. The cohorts we study are younger than cohorts studied in previous, similar research and thus more exposed to recent increases in earnings inequality. All else equal, this should increase the degree of progressivity of Social Security redistribution due to the structure of the benefit formula. However, we find that redistribution is only modestly progressive for individuals born as late as 1980. Differential mortality rates across race and education groups are the primary explanation. While Black–White mortality gaps have narrowed some in recent years, they remain large and dull progressivity. Mortality gaps by education level are also large and unlike the gaps by race, they are widening, which puts additional regressive pressure on Social Security redistribution.}
+      \field{journaltitle}{Southern Economic Journal}
+      \field{title}{The Effects of Differential Income Replacement and Mortality on U.S. Social Security Redistribution}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1002/soej.12395
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/soej.12395
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/soej.12395
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/soej.12395
+      \endverb
+      \keyw{H55,J26,D31}
+    \endentry
+    \entry{CreationSSBv7}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=410781ff3852f08677cea851e01dae7c}{%
+           family={Benedetto},
+           familyi={B\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35b70364ab4748495354a83e86fcf840}{%
+           family={Stanley},
+           familyi={S\bibinitperiod},
+           given={Jordan\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=353f236e71b8030134d1383d72066d11}{%
+           family={Totty},
+           familyi={T\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Census Bureau}%
+      }
+      \strng{namehash}{958e446386aa0b4a9daf44b4dc580e43}
+      \strng{fullhash}{958e446386aa0b4a9daf44b4dc580e43}
+      \strng{bibnamehash}{958e446386aa0b4a9daf44b4dc580e43}
+      \strng{authorbibnamehash}{958e446386aa0b4a9daf44b4dc580e43}
+      \strng{authornamehash}{958e446386aa0b4a9daf44b4dc580e43}
+      \strng{authorfullhash}{958e446386aa0b4a9daf44b4dc580e43}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{The Creation and Use of the {SIPP} {Synthetic} {Beta} v7.0}
+      \field{type}{techreport}
+      \field{year}{2018}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.census.gov/content/dam/Census/library/working-papers/2018/adrm/Creation_SSBv7.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.census.gov/content/dam/Census/library/working-papers/2018/adrm/Creation_SSBv7.pdf
+      \endverb
+    \endentry
+    \entry{10.1257/pandp.20181050}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6c3191a3c8b75e177ea6548038cfbc4a}{%
+           family={Carr},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d5463ff19cccd502217e66a8d1f4782e}{%
+           family={Wiemers},
+           familyi={W\bibinitperiod},
+           given={Emily\bibnamedelima E.},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a6e5f67892091a7f45edf9413d6a3e29}
+      \strng{fullhash}{a6e5f67892091a7f45edf9413d6a3e29}
+      \strng{bibnamehash}{a6e5f67892091a7f45edf9413d6a3e29}
+      \strng{authorbibnamehash}{a6e5f67892091a7f45edf9413d6a3e29}
+      \strng{authornamehash}{a6e5f67892091a7f45edf9413d6a3e29}
+      \strng{authorfullhash}{a6e5f67892091a7f45edf9413d6a3e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Despite the rise in cross-sectional inequality since the late 1990s, there is little consensus on trends in earnings volatility during this period. Using consistent samples and methods in administrative earnings data matched to the Survey of Income and Program Participation (SIPP GSF) and survey data from the Panel Study of Income Dynamics (PSID), we examine earnings volatility for men from 1978 through 2011. In contrast to the apparent inconsistency in trends across administrative and survey data in the existing literature, we find recent increases in volatility in the SIPP GSF and the PSID, though increases are larger in the PSID.}
+      \field{journaltitle}{AEA Papers and Proceedings}
+      \field{title}{New Evidence on Earnings Volatility in Survey and Administrative Data}
+      \field{volume}{108}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{287\bibrangedash 91}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1257/pandp.20181050
+      \endverb
+      \verb{urlraw}
+      \verb http://www.aeaweb.org/articles?id=10.1257/pandp.20181050
+      \endverb
+      \verb{url}
+      \verb http://www.aeaweb.org/articles?id=10.1257/pandp.20181050
+      \endverb
+    \endentry
+    \entry{Henriques2017}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=34b7e4f1af0ba620be31380e372fc100}{%
+           family={Henriques},
+           familyi={H\bibinitperiod},
+           given={Alice\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {University of Wisconsin Press}%
+      }
+      \strng{namehash}{34b7e4f1af0ba620be31380e372fc100}
+      \strng{fullhash}{34b7e4f1af0ba620be31380e372fc100}
+      \strng{bibnamehash}{34b7e4f1af0ba620be31380e372fc100}
+      \strng{authorbibnamehash}{34b7e4f1af0ba620be31380e372fc100}
+      \strng{authornamehash}{34b7e4f1af0ba620be31380e372fc100}
+      \strng{authorfullhash}{34b7e4f1af0ba620be31380e372fc100}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Most women receive some Social Security benefits based upon their husbands’ earnings history, but husbands’ benefit claiming is inconsistent with maximizing lifetime benefits for the couple. I show that husbands’ claiming behavior responds to the actuarial incentives from their retired worker benefits. Not responding to incentives from spouse and survivor formulas reduces wives’ lifetime benefits. Rule changes to the Social Security benefit calculation, the age difference between spouses, and the relative strength of the wife’s labor force history creates variation in incentives. Segments of the population predicted to be more responsive to incentives provides similar results to the main specification.}
+      \field{journaltitle}{Journal of Human Resources}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{How Does Social Security Claiming Respond to Incentives?}
+      \field{volume}{53}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{382\bibrangedash 413}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.3368/jhr.53.2.1212-5371r2
+      \endverb
+      \verb{urlraw}
+      \verb http://jhr.uwpress.org/content/53/2/382.abstract
+      \endverb
+      \verb{url}
+      \verb http://jhr.uwpress.org/content/53/2/382.abstract
+      \endverb
+    \endentry
+    \entry{NeumeierSorensenWebber_SJE}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2ee6ef48d70a2dc7340296af8e0c6593}{%
+           family={Neumeier},
+           familyi={N\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=002e1f1dddb3fd1319f387fb404cd6c9}{%
+           family={Sorensen},
+           familyi={S\bibinitperiod},
+           given={Todd\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f4bd41755c4f497fb1c24f209604ded}{%
+           family={Webber},
+           familyi={W\bibinitperiod},
+           given={Douglas\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{df0fcbbaf8ee6feb3847e892447200f1}
+      \strng{fullhash}{df0fcbbaf8ee6feb3847e892447200f1}
+      \strng{bibnamehash}{df0fcbbaf8ee6feb3847e892447200f1}
+      \strng{authorbibnamehash}{df0fcbbaf8ee6feb3847e892447200f1}
+      \strng{authornamehash}{df0fcbbaf8ee6feb3847e892447200f1}
+      \strng{authorfullhash}{df0fcbbaf8ee6feb3847e892447200f1}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The explicit costs of raising a child have grown over the past several decades. Less well understood are the implicit costs of having a child, and how they have changed over time. In this paper we use longitudinal administrative data from over 70,000 individuals in the Synthetic SIPP Beta to examine the earnings gap between mothers and non-mothers over the lifecycle and between cohorts. We observe women who never have children beginning to out earn women who will have children during their 20s. Gaps increase monotonically over the lifecycle, and decrease monotonically between cohorts from age 26 onwards. In our oldest cohort, lifetime gaps approach \$350,000 by age 62. Cumulative labor market experience profiles show similar patterns, with experience gaps between mothers and non-mothers generally increasing over the lifecycle and decreasing between cohorts. We decompose this cumulative gap in earnings (up to age 43) into portions attributable to time spent out of the labor force, differing levels of education, years of marriage and a number of demographic controls. We find that this gap between mothers and non-mothers declines from around \$220,000 for women born in the late 1940s to around \$160,000 for women born in the late 1960s. Over 80 percent of the change in this gap can be explained by variables in our model, with changes in labor force participation by far the best explanation for the declining gap. Comparing our oldest cohort as they approach retirement to the projected lifecycle behavior of the 1965 cohort, we find that the earnings gap is estimated to drop from \$350,000 (observed) to \$282,000 (expected) and that the experience gap drops from 3.7 to 2.1 years. We also explore the intensive margin costs of having a child. A decomposition of earnings gaps between mothers of one child and mothers of two children also controls for age at first birth. Here, we find a decline in the gap from around \$78,000 for our oldest cohorts to around \$37,000 for our youngest cohort}
+      \field{issue}{3}
+      \field{journaltitle}{Southern Economic Journal}
+      \field{month}{1}
+      \field{title}{{The Implicit Costs of Motherhood over the Lifecycle: Cross-Cohort Evidence from Administrative Longitudinal Data}}
+      \field{volume}{84}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{716\bibrangedash 733}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1002/soej.12239
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/soej.12239
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/soej.12239
+      \endverb
+      \keyw{family gap; opportunity cost of children; gender pay gap}
+    \endentry
+    \entry{CED2AR-SSBv70}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=951651fe6de95acfd34a7f23a52ac189}{%
+           family={Reeder},
+           familyi={R\bibinitperiod},
+           given={Lori\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35b70364ab4748495354a83e86fcf840}{%
+           family={Stanley},
+           familyi={S\bibinitperiod},
+           given={Jordan\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Cornell Institute for Social and Economic Research}%
+        {{Labor Dynamics Institute} [distributor]. Cornell University}%
+      }
+      \list{location}{1}{%
+        {Ithaca, NY, USA}%
+      }
+      \strng{namehash}{a84c26f2061782c59c829862d312fda1}
+      \strng{fullhash}{a84c26f2061782c59c829862d312fda1}
+      \strng{bibnamehash}{a84c26f2061782c59c829862d312fda1}
+      \strng{authorbibnamehash}{a84c26f2061782c59c829862d312fda1}
+      \strng{authornamehash}{a84c26f2061782c59c829862d312fda1}
+      \strng{authorfullhash}{a84c26f2061782c59c829862d312fda1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Codebook for the {SIPP} {S}ynthetic {B}eta v7.0 [Codebook file]}
+      \field{type}{{DDI-C} document}
+      \field{year}{2018}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www2.ncrn.cornell.edu/ced2ar-web/codebooks/ssb/v/v7
+      \endverb
+      \verb{url}
+      \verb http://www2.ncrn.cornell.edu/ced2ar-web/codebooks/ssb/v/v7
+      \endverb
+    \endentry
+    \entry{RePEc:iza:izadps:dp10558}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2ee6ef48d70a2dc7340296af8e0c6593}{%
+           family={Neumeier},
+           familyi={N\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=002e1f1dddb3fd1319f387fb404cd6c9}{%
+           family={Sorensen},
+           familyi={S\bibinitperiod},
+           given={Todd\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f4bd41755c4f497fb1c24f209604ded}{%
+           family={Webber},
+           familyi={W\bibinitperiod},
+           given={Douglas\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Institute for the Study of Labor (IZA)}%
+      }
+      \strng{namehash}{df0fcbbaf8ee6feb3847e892447200f1}
+      \strng{fullhash}{df0fcbbaf8ee6feb3847e892447200f1}
+      \strng{bibnamehash}{df0fcbbaf8ee6feb3847e892447200f1}
+      \strng{authorbibnamehash}{df0fcbbaf8ee6feb3847e892447200f1}
+      \strng{authornamehash}{df0fcbbaf8ee6feb3847e892447200f1}
+      \strng{authorfullhash}{df0fcbbaf8ee6feb3847e892447200f1}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The explicit costs of raising a child have grown over the past several decades. Less well understood are the implicit costs of having a child, and how they have changed over time. In this paper we use longitudinal administrative data from over 70,000 individuals in the Synthetic SIPP Beta to examine the earnings gap between mothers and non-mothers over the lifecycle and between cohorts. We observe women who never have children beginning to out earn women who will have children during their 20s. Gaps increase monotonically over the lifecycle, and decrease monotonically between cohorts from age 26 onwards. In our oldest cohort, lifetime gaps approach \$350,000 by age 62. Cumulative labor market experience profiles show similar patterns, with experience gaps between mothers and non-mothers generally increasing over the lifecycle and decreasing between cohorts. We decompose this cumulative gap in earnings (up to age 43) into portions attributable to time spent out of the labor force, differing levels of education, years of marriage and a number of demographic controls. We find that this gap between mothers and non-mothers declines from around \$220,000 for women born in the late 1940s to around \$160,000 for women born in the late 1960s. Over 80 percent of the change in this gap can be explained by variables in our model, with changes in labor force participation by far the best explanation for the declining gap. Comparing our oldest cohort as they approach retirement to the projected lifecycle behavior of the 1965 cohort, we find that the earnings gap is estimated to drop from \$350,000 (observed) to \$282,000 (expected) and that the experience gap drops from 3.7 to 2.1 years. We also explore the intensive margin costs of having a child. A decomposition of earnings gaps between mothers of one child and mothers of two children also controls for age at first birth. Here, we find a decline in the gap from around \$78,000 for our oldest cohorts to around \$37,000 for our youngest cohort}
+      \field{month}{2}
+      \field{number}{10558}
+      \field{title}{{The Implicit Costs of Motherhood over the Lifecycle: Cross-Cohort Evidence from Administrative Longitudinal Data}}
+      \field{type}{IZA Discussion Papers}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://ideas.repec.org/p/iza/izadps/dp10558.html
+      \endverb
+      \verb{url}
+      \verb https://ideas.repec.org/p/iza/izadps/dp10558.html
+      \endverb
+      \keyw{family gap; opportunity cost of children; gender pay gap}
+    \endentry
+    \entry{10.1257/aer.20141280}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3b28ea1efc488e97f975dda466df05fd}{%
+           family={Sedláček},
+           familyi={S\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d463ab5b65ea39efd0090b9deb589706}{%
+           family={Sterk},
+           familyi={S\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{666d289504ca0599411e7b93d02b34dc}
+      \strng{fullhash}{666d289504ca0599411e7b93d02b34dc}
+      \strng{bibnamehash}{666d289504ca0599411e7b93d02b34dc}
+      \strng{authorbibnamehash}{666d289504ca0599411e7b93d02b34dc}
+      \strng{authornamehash}{666d289504ca0599411e7b93d02b34dc}
+      \strng{authorfullhash}{666d289504ca0599411e7b93d02b34dc}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper shows that employment in cohorts of US firms is strongly influenced by aggregate conditions at the time of their entry. Employment fluctuations of startups are procyclical, they persist into later years, and cohort-level employment variations are largely driven by differences in firm size, rather than the number of firms. An estimated general equilibrium firm dynamics model reveals that aggregate conditions at birth, rather than post-entry choices, drive the majority of cohort-level employment variation by affecting the share of startups with high growth potential. In the aggregate, changes in startup conditions result in large, slow-moving fluctuations in employment. NOTE: The authors were granted access to the Synthetic LBD for an earlier version of the paper; the current paper does not use Synthetic LBD or confidential LBD results.}
+      \field{journaltitle}{American Economic Review}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{The Growth Potential of Startups over the Business Cycle}
+      \field{volume}{107}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{3182\bibrangedash 3210}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1257/aer.20141280
+      \endverb
+      \verb{urlraw}
+      \verb http://www.aeaweb.org/articles?id=10.1257/aer.20141280
+      \endverb
+      \verb{url}
+      \verb http://www.aeaweb.org/articles?id=10.1257/aer.20141280
+      \endverb
+    \endentry
+    \entry{ProceedingsSynLBD2017}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=391f0b46ce6a4a860eb0d17e79e8410b}{%
+           family={Kinney},
+           familyi={K\bibinitperiod},
+           given={Saki},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=6647c16bc23c2a759ad1a4b0512388b7}{%
+           family={Schmutte},
+           familyi={S\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{institution}{1}{%
+        {Labor Dynamics Institute, Cornell University}%
+      }
+      \strng{namehash}{4eaad3c137e451ca3625f8dfab51d2de}
+      \strng{fullhash}{4eaad3c137e451ca3625f8dfab51d2de}
+      \strng{bibnamehash}{4eaad3c137e451ca3625f8dfab51d2de}
+      \strng{authorbibnamehash}{4eaad3c137e451ca3625f8dfab51d2de}
+      \strng{authornamehash}{4eaad3c137e451ca3625f8dfab51d2de}
+      \strng{authorfullhash}{4eaad3c137e451ca3625f8dfab51d2de}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{On May 9, 2017, we hosted a seminar to discuss the conditions necessary to implement the SynLBD approach with interested parties, with the goal of providing a straightforward toolkit to implement the same procedure on other data. The proceedings summarize the discussions during the workshop. Funding for the workshop was provided by the National Science Foundation (Grants 1012593; 1131848) and the Alfred P. Sloan Foundation (G-2015-13903). Organizational support was provided by the Labor Dynamics Institute at Cornell University.}
+      \field{number}{44}
+      \field{title}{Proceedings from the Synthetic LBD International Seminar}
+      \field{type}{Document}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://digitalcommons.ilr.cornell.edu/ldi/44/
+      \endverb
+      \verb{url}
+      \verb http://digitalcommons.ilr.cornell.edu/ldi/44/
+      \endverb
+    \endentry
+    \entry{AbowdMcKinney-SJIAOS-2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0112bba721d5c482791ef74c6a37277f}{%
+           family={McKinney},
+           familyi={M\bibinitperiod},
+           given={Kevin\bibnamedelima L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d8f6c238800cbf2713dc9d814b770eaf}
+      \strng{fullhash}{d8f6c238800cbf2713dc9d814b770eaf}
+      \strng{bibnamehash}{d8f6c238800cbf2713dc9d814b770eaf}
+      \strng{authorbibnamehash}{d8f6c238800cbf2713dc9d814b770eaf}
+      \strng{authornamehash}{d8f6c238800cbf2713dc9d814b770eaf}
+      \strng{authorfullhash}{d8f6c238800cbf2713dc9d814b770eaf}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We use the bipartite graph representation of longitudinally linked employer-employee data, and the associated projections onto the employer and employee nodes, respectively, to characterize the set of potential statistical summaries that the trusted custodian might produce. We consider noise infusion as the primary confidentiality protection method. We show that a relatively straightforward extension of the dynamic noise-infusion method used in the U.S. Census Bureau’s Quarterly Workforce Indicators can be adapted to provide the same confidentiality guarantees for the graph-based statistics: all inputs have been modified by a minimum percentage deviation (i.e., no actual respondent data are used) and, as the number of entities contributing to a particular statistic increases, the accuracy of that statistic approaches the unprotected value. Our method also ensures that the protected statistics will be identical in all releases based on the same inputs.}
+      \field{chapter}{127}
+      \field{journaltitle}{Statistical Journal of the International Association for Official Statistics}
+      \field{title}{Noise infusion as a confidentiality protection measure for graph-based statistics}
+      \field{volume}{32}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{127\bibrangedash 135}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.3233/SJI-160958
+      \endverb
+      \verb{urlraw}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji958
+      \endverb
+      \verb{url}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji958
+      \endverb
+    \endentry
+    \entry{RePEc:cen:wpaper:16-10}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Center for Economic Studies, U.S. Census Bureau}%
+      }
+      \strng{namehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{fullhash}{094ca324404122dce858a3ca61143c4b}
+      \strng{bibnamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authorbibnamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authornamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authorfullhash}{094ca324404122dce858a3ca61143c4b}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We describe and analyze a method that blends records from both observed and synthetic microdata into public-use tabulations on establishment statistics. The resulting tables use synthetic data only in potentially sensitive cells. We describe different algorithms, and present preliminary results when applied to the Census Bureau's Business Dynamics Statistics and Synthetic Longitudinal Business Database, highlighting accuracy and protection afforded by the method when compared to existing public-use tabulations (with suppressions).}
+      \field{month}{2}
+      \field{number}{16-10}
+      \field{title}{{Using Partially Synthetic Microdata to Protect Sensitive Cells in Business Statistics}}
+      \field{type}{Working Papers}
+      \field{year}{2016}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://ideas.repec.org/p/cen/wpaper/16-10.html
+      \endverb
+      \verb{url}
+      \verb https://ideas.repec.org/p/cen/wpaper/16-10.html
+      \endverb
+      \keyw{synthetic data; statistical disclosure limitation; time-series; local labor markets; gross job flows}
+    \endentry
+    \entry{MirandaVilhuber-SJIAOS-2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{fullhash}{094ca324404122dce858a3ca61143c4b}
+      \strng{bibnamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authorbibnamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authornamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authorfullhash}{094ca324404122dce858a3ca61143c4b}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We describe and analyze a method that blends records from both observed and synthetic microdata into public-use tabulations on establishment statistics. The resulting tables use synthetic data only in potentially sensitive cells. We describe different algorithms, and present preliminary results when applied to the Census Bureau’s Business Dynamics Statistics and Synthetic Longitudinal Business Database, highlighting accuracy and protection afforded by the method when compared to existing public-use tabulations (with suppressions).}
+      \field{chapter}{69}
+      \field{journaltitle}{Statistical Journal of the International Association for Official Statistics}
+      \field{month}{2016}
+      \field{title}{Using partially synthetic microdata to protect sensitive cells in business statistics}
+      \field{volume}{32}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{69\bibrangedash 80}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3233/SJI-160963
+      \endverb
+      \verb{urlraw}
+      \verb http://content.iospress.com/download/statistical-journal-of-the-iaos/sji963
+      \endverb
+      \verb{url}
+      \verb http://content.iospress.com/download/statistical-journal-of-the-iaos/sji963
+      \endverb
+      \keyw{confidentiality protection,gross job flows,local labor markets,Statistical Disclosure Limitation,Synthetic data,time-series}
+    \endentry
+    \entry{MirandaVilhuber-SJIAOS2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{fullhash}{094ca324404122dce858a3ca61143c4b}
+      \strng{bibnamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authorbibnamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authornamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authorfullhash}{094ca324404122dce858a3ca61143c4b}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We describe and analyze a method that blends records from both observed and synthetic microdata into public-use tabulations on establishment statistics. The resulting tables use synthetic data only in potentially sensitive cells. We describe different algorithms, and present preliminary results when applied to the Census Bureau's Business Dynamics Statistics and Synthetic Longitudinal Business Database, highlighting accuracy and protection afforded by the method when compared to existing public-use tabulations (with suppressions).}
+      \field{issn}{1874-7655}
+      \field{journaltitle}{Statistical Journal of the IAOS}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Using partially synthetic microdata to protect sensitive cells in business statistics}
+      \field{volume}{32}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{69\bibrangedash 80}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3233/SJI-160963
+      \endverb
+      \verb{file}
+      \verb :MirandaVilhuber-SJIAOS2016.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.org/10.3233/SJI-160963
+      \endverb
+      \verb{url}
+      \verb http://doi.org/10.3233/SJI-160963
+      \endverb
+    \endentry
+    \entry{Schmutte-SJIAOS-2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=24a75c76abf0893c9616552747b7acc2}{%
+           family={Schmutte},
+           familyi={S\bibinitperiod},
+           given={Ian\bibnamedelima M.},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{24a75c76abf0893c9616552747b7acc2}
+      \strng{fullhash}{24a75c76abf0893c9616552747b7acc2}
+      \strng{bibnamehash}{24a75c76abf0893c9616552747b7acc2}
+      \strng{authorbibnamehash}{24a75c76abf0893c9616552747b7acc2}
+      \strng{authornamehash}{24a75c76abf0893c9616552747b7acc2}
+      \strng{authorfullhash}{24a75c76abf0893c9616552747b7acc2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Brazil, like many countries, is reluctant to publish business-level data, because of legitimate concerns about the establishments’ confidentiality. A trusted data curator can increase the utility of data, while managing the risk to establishments, either by releasing synthetic data, or by infusing noise into published statistics. This paper evaluates the application of a differentially private mechanism to publish statistics on wages and job mobility computed from Brazilian employer-employee matched data. The publication mechanism can result in both the publication of specific statistics as well as the generation of synthetic data. I find that the tradeoff between the privacy guaranteed to individuals in the data, and the accuracy of published statistics, is potentially much better that the worst-case theoretical accuracy guarantee. However, the synthetic data fare quite poorly in analyses that are outside the set of queries to which it was trained. Note that this article only explores and characterizes the feasibility of these publication strategies, and will not directly result in the publication of any data.}
+      \field{chapter}{81}
+      \field{journaltitle}{Statistical Journal of the International Association for Official Statistics}
+      \field{month}{02/2016/2016}
+      \field{title}{Differentially private publication of data on wages and job mobility}
+      \field{volume}{32}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{81\bibrangedash 92}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3233/SJI-160962
+      \endverb
+      \verb{urlraw}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji962
+      \endverb
+      \verb{url}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji962
+      \endverb
+      \keyw{Demand for public statistics,differential privacy,job mobility,matched employer-employee data,optimal confidentiality protection,optimal data accuracy,technology for statistical agencies}
+    \endentry
+    \entry{VilhuberAbowdReiter-SJIAOS-2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97d7feab6be2178c08aae7071c2b494c}{%
+           family={Reiter},
+           familyi={R\bibinitperiod},
+           given={Jerome\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5279a4d668cb9add7eef0e17c96f4010}
+      \strng{fullhash}{5279a4d668cb9add7eef0e17c96f4010}
+      \strng{bibnamehash}{5279a4d668cb9add7eef0e17c96f4010}
+      \strng{authorbibnamehash}{5279a4d668cb9add7eef0e17c96f4010}
+      \strng{authornamehash}{5279a4d668cb9add7eef0e17c96f4010}
+      \strng{authorfullhash}{5279a4d668cb9add7eef0e17c96f4010}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In contrast to the many public-use microdata samples available for individual and household data from many statistical agencies around the world, there are virtually no establishment or firm microdata available. In large part, this difficulty in providing access to business microdata is due to the skewed and sparse distributions that characterize business data. Synthetic data are simulated data generated from statistical models. We organized sessions at the 2015 World Statistical Congress and the 2015 Joint Statistical Meetings, highlighting work on synthetic \emph{establishment} microdata. This overview situates those papers, published in this issue, within the broader literature.}
+      \field{chapter}{65}
+      \field{journaltitle}{Statistical Journal of the International Association for Official Statistics}
+      \field{title}{Synthetic establishment microdata around the world}
+      \field{volume}{32}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{65\bibrangedash 68}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.3233/SJI-160964
+      \endverb
+      \verb{urlraw}
+      \verb http://content.iospress.com/download/statistical-journal-of-the-iaos/sji964
+      \endverb
+      \verb{url}
+      \verb http://content.iospress.com/download/statistical-journal-of-the-iaos/sji964
+      \endverb
+      \keyw{Business data,confidentiality,differential privacy,international comparison,Multiple imputation,synthetic}
+    \endentry
+    \entry{VilhuberAbowdReiter-SJIAOS2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97d7feab6be2178c08aae7071c2b494c}{%
+           family={Reiter},
+           familyi={R\bibinitperiod},
+           given={Jerome\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{5279a4d668cb9add7eef0e17c96f4010}
+      \strng{fullhash}{5279a4d668cb9add7eef0e17c96f4010}
+      \strng{bibnamehash}{5279a4d668cb9add7eef0e17c96f4010}
+      \strng{authorbibnamehash}{5279a4d668cb9add7eef0e17c96f4010}
+      \strng{authornamehash}{5279a4d668cb9add7eef0e17c96f4010}
+      \strng{authorfullhash}{5279a4d668cb9add7eef0e17c96f4010}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In contrast to the many public-use microdata samples available for individual and household data from many statistical agencies around the world, there are virtually no establishment or firm microdata available. In large part, this difficulty in providing access to business microdata is due to the skewed and sparse distributions that characterize business data. Synthetic data are simulated data generated from statistical models. We organized sessions at the 2015 World Statistical Congress and the 2015 Joint Statistical Meetings, highlighting work on synthetic \emph{establishment} microdata. This overview situates those papers, published in this issue, within the broader literature.}
+      \field{issn}{1874-7655}
+      \field{journaltitle}{Statistical Journal of the IAOS}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Synthetic establishment microdata around the world}
+      \field{volume}{32}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{65\bibrangedash 68}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.3233/SJI-160964
+      \endverb
+      \verb{file}
+      \verb :VilhuberAbowdReiter-SJIAOS2016.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.org/10.3233/SJI-160964
+      \endverb
+      \verb{url}
+      \verb http://doi.org/10.3233/SJI-160964
+      \endverb
+    \endentry
+    \entry{Bertrand29012015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a25cba6b139b5ccffa7a9dcf8252a692}{%
+           family={Bertrand},
+           familyi={B\bibinitperiod},
+           given={Marianne},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59edb16f289e64c5bec6097a2596b10e}{%
+           family={Kamenica},
+           familyi={K\bibinitperiod},
+           given={Emir},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=909c0ab99706d471658416c25ea577dd}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{fullhash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{bibnamehash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{authorbibnamehash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{authornamehash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{authorfullhash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We examine causes and consequences of relative income within households. We show that the distribution of the share of income earned by the wife exhibits a sharp drop to the right of 12, where the wifeâ€™s income exceeds the husbandâ€™s income. We argue that this pattern is best explained by gender identity norms, which induce an aversion to a situation where the wife earns more than her husband. We present evidence that this aversion also impacts marriage formation, the wifeâ€™s labor force participation, the wifeâ€™s income conditional on working, marriage satisfaction, likelihood of divorce, and the division of home production. Within marriage markets, when a randomly chosen woman becomes more likely to earn more than a randomly chosen man, marriage rates decline. In couples where the wifeâ€™s potential income is likely to exceed the husbandâ€™s, the wife is less likely to be in the labor force and earns less than her potential if she does work. In couples where the wife earns more than the husband, the wife spends more time on household chores; moreover, those couples are less satisfied with their marriage and are more likely to divorce. These patterns hold both cross-sectionally and within couples over time. JEL Codes: D10, J12, J16.}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{number}{2}
+      \field{title}{Gender Identity and Relative Income within Households}
+      \field{volume}{130}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1093/qje/qjv001
+      \endverb
+      \verb{eprint}
+      \verb http://qje.oxfordjournals.org/content/early/2015/04/11/qje.qjv001.full.pdf+html
+      \endverb
+      \verb{urlraw}
+      \verb http://qje.oxfordjournals.org/content/early/2015/04/11/qje.qjv001.abstract
+      \endverb
+      \verb{url}
+      \verb http://qje.oxfordjournals.org/content/early/2015/04/11/qje.qjv001.abstract
+      \endverb
+    \endentry
+    \entry{GreenstoneMasNguyen}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=23e2201fd0a08bee5f8f929d238f6472}{%
+           family={Greenstone},
+           familyi={G\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=949b13e4b4f8dba38734d2702d90cd56}{%
+           family={Mas},
+           familyi={M\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3ce611e29ee68fd2b4dda702723fed4}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Hoai-Luu},
+           giveni={H\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Princeton University}%
+      }
+      \strng{namehash}{eaf807b53907fd809159caa53d039576}
+      \strng{fullhash}{eaf807b53907fd809159caa53d039576}
+      \strng{bibnamehash}{eaf807b53907fd809159caa53d039576}
+      \strng{authorbibnamehash}{eaf807b53907fd809159caa53d039576}
+      \strng{authornamehash}{eaf807b53907fd809159caa53d039576}
+      \strng{authorfullhash}{eaf807b53907fd809159caa53d039576}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper uses comprehensive data on bank lending and establishment-level outcomes from 1997-2011 to test whether changes in small business bank lending affect the real economy. The shift-share style research design predicts county-level lending shocks using variation in pre-existing bank market shares and estimated bank supply-shifts. Counties with negative predicted supply shocks experienced declines in small business loan originations throughout the entire period, indicating that it is costly for these businesses to find new lenders. Using confidential microdata from the Longitudinal Business Database, we find the predicted lending shocks led to statistically significant, but economically small, declines in both small firm and overall employment during the Great Recession, but did not affect employment during the 1997-2007 period. Overall, this paper’s evidence fails to support the hypothesis that the small business lending channel is an important determinant of economic activity}
+      \field{month}{9}
+      \field{title}{Do Credit Market Shocks affect the Real Economy? Quasi-Experimental Evidence from the Great Recession and Normal Economic Times}
+      \field{type}{techreport}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{file}
+      \verb :http\://www.princeton.edu/~amas/papers/gmn_20150925.pdf:URL
+      \endverb
+      \verb{urlraw}
+      \verb http://www.princeton.edu/~amas/papers/gmn_20150925.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.princeton.edu/~amas/papers/gmn_20150925.pdf
+      \endverb
+    \endentry
+    \entry{CED2AR-SSBv6}{report}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=951651fe6de95acfd34a7f23a52ac189}{%
+           family={Reeder},
+           familyi={R\bibinitperiod},
+           given={Lori\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=3012bbcddfa04c1957422dbd4533e91c}{%
+           family={Stinson},
+           familyi={S\bibinitperiod},
+           given={Martha},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=bf6532a489ff79d7ad9d546a6495e540}{%
+           family={Trageser},
+           familyi={T\bibinitperiod},
+           given={Kelly\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Cornell Institute for Social and Economic Research}%
+        {{Labor Dynamics Institute} [distributor]. Cornell University}%
+      }
+      \list{location}{1}{%
+        {Ithaca, NY, USA}%
+      }
+      \strng{namehash}{06299c3a151727e55049c36ec936a679}
+      \strng{fullhash}{06299c3a151727e55049c36ec936a679}
+      \strng{bibnamehash}{06299c3a151727e55049c36ec936a679}
+      \strng{authorbibnamehash}{06299c3a151727e55049c36ec936a679}
+      \strng{authornamehash}{06299c3a151727e55049c36ec936a679}
+      \strng{authorfullhash}{06299c3a151727e55049c36ec936a679}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Codebook for the {SIPP} {S}ynthetic {B}eta v6.0 [Codebook file]}
+      \field{type}{{DDI-C} document}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www2.ncrn.cornell.edu/ced2ar-web/codebooks/ssb/v/v6
+      \endverb
+      \verb{url}
+      \verb http://www2.ncrn.cornell.edu/ced2ar-web/codebooks/ssb/v/v6
+      \endverb
+    \endentry
+    \entry{CED2AR-SSBv602}{report}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=951651fe6de95acfd34a7f23a52ac189}{%
+           family={Reeder},
+           familyi={R\bibinitperiod},
+           given={Lori\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=3012bbcddfa04c1957422dbd4533e91c}{%
+           family={Stinson},
+           familyi={S\bibinitperiod},
+           given={Martha},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=bf6532a489ff79d7ad9d546a6495e540}{%
+           family={Trageser},
+           familyi={T\bibinitperiod},
+           given={Kelly\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Cornell Institute for Social and Economic Research}%
+        {{Labor Dynamics Institute} [distributor]. Cornell University}%
+      }
+      \list{location}{1}{%
+        {Ithaca, NY, USA}%
+      }
+      \strng{namehash}{06299c3a151727e55049c36ec936a679}
+      \strng{fullhash}{06299c3a151727e55049c36ec936a679}
+      \strng{bibnamehash}{06299c3a151727e55049c36ec936a679}
+      \strng{authorbibnamehash}{06299c3a151727e55049c36ec936a679}
+      \strng{authornamehash}{06299c3a151727e55049c36ec936a679}
+      \strng{authorfullhash}{06299c3a151727e55049c36ec936a679}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Codebook for the {SIPP} {S}ynthetic {B}eta v6.0.2 [Codebook file]}
+      \field{type}{{DDI-C} document}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www2.ncrn.cornell.edu/ced2ar-web/codebooks/ssb/v/v602
+      \endverb
+      \verb{url}
+      \verb http://www2.ncrn.cornell.edu/ced2ar-web/codebooks/ssb/v/v602
+      \endverb
+    \endentry
+    \entry{drbmemo2015}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb461c0c6976b357452502c0cb338c70}{%
+           family={{U.S. Census Bureau}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Census Bureau}%
+      }
+      \strng{namehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{fullhash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{bibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorbibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authornamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorfullhash}{fb461c0c6976b357452502c0cb338c70}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{Disclosure Review Board Memo: {S}econd Request for Release of {SIPP} {S}ynthetic {B}eta Version 6.0}
+      \field{type}{techreport}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1813/42334
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1813/42334
+      \endverb
+    \endentry
+    \entry{SSB6}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb461c0c6976b357452502c0cb338c70}{%
+           family={{U.S. Census Bureau}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {{U.S. Census Bureau} [producer]}%
+        {Cornell University, Synthetic Data Server [distributor]}%
+      }
+      \list{location}{2}{%
+        {Washington,DC}%
+        {Ithaca, NY, USA}%
+      }
+      \list{organization}{1}{%
+        {Cornell University, Synthetic Data Server [distributor]}%
+      }
+      \strng{namehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{fullhash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{bibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorbibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authornamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorfullhash}{fb461c0c6976b357452502c0cb338c70}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Computer file}
+      \field{title}{{SIPP} {S}ynthetic {B}eta Version 6.0}
+      \field{type}{[Computer file]}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www2.vrdc.cornell.edu/news/data/sipp-synthetic-beta-file/
+      \endverb
+      \verb{url}
+      \verb http://www2.vrdc.cornell.edu/news/data/sipp-synthetic-beta-file/
+      \endverb
+    \endentry
+    \entry{SSB602}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb461c0c6976b357452502c0cb338c70}{%
+           family={{U.S. Census Bureau}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {{U.S. Census Bureau} [producer]}%
+        {Cornell University, Synthetic Data Server [distributor]}%
+      }
+      \list{location}{2}{%
+        {Washington,DC}%
+        {Ithaca, NY, USA}%
+      }
+      \list{organization}{1}{%
+        {Cornell University, Synthetic Data Server [distributor]}%
+      }
+      \strng{namehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{fullhash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{bibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorbibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authornamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorfullhash}{fb461c0c6976b357452502c0cb338c70}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Computer file}
+      \field{title}{{SIPP} {S}ynthetic {B}eta Version 6.0.2}
+      \field{type}{[Computer file]}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www2.vrdc.cornell.edu/news/data/sipp-synthetic-beta-file/
+      \endverb
+      \verb{url}
+      \verb http://www2.vrdc.cornell.edu/news/data/sipp-synthetic-beta-file/
+      \endverb
+    \endentry
+    \entry{SSB70}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb461c0c6976b357452502c0cb338c70}{%
+           family={{U.S. Census Bureau}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {{U.S. Census Bureau} [producer]}%
+        {Cornell University, Synthetic Data Server [distributor]}%
+      }
+      \list{location}{2}{%
+        {Washington,DC}%
+        {Ithaca, NY, USA}%
+      }
+      \list{organization}{1}{%
+        {Cornell University, Synthetic Data Server [distributor]}%
+      }
+      \strng{namehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{fullhash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{bibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorbibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authornamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorfullhash}{fb461c0c6976b357452502c0cb338c70}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Computer file}
+      \field{title}{{SIPP} {S}ynthetic {B}eta Version 7.0}
+      \field{type}{[Computer file]}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www2.vrdc.cornell.edu/news/data/sipp-synthetic-beta-file/
+      \endverb
+      \verb{url}
+      \verb http://www2.vrdc.cornell.edu/news/data/sipp-synthetic-beta-file/
+      \endverb
+    \endentry
+    \entry{SJIAOS-2014e}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{591e867111b9dfeb65cfa6fc98005584}
+      \strng{fullhash}{591e867111b9dfeb65cfa6fc98005584}
+      \strng{bibnamehash}{591e867111b9dfeb65cfa6fc98005584}
+      \strng{authorbibnamehash}{591e867111b9dfeb65cfa6fc98005584}
+      \strng{authornamehash}{591e867111b9dfeb65cfa6fc98005584}
+      \strng{authorfullhash}{591e867111b9dfeb65cfa6fc98005584}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistical Journal of the IAOS: Journal of the International Association for Official Statistics}
+      \field{number}{2}
+      \field{title}{Synthetic establishment data: Origins and introduction to current research}
+      \field{volume}{30}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3233/SJI-140810
+      \endverb
+      \verb{urlraw}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji00810
+      \endverb
+      \verb{url}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji00810
+      \endverb
+    \endentry
+    \entry{Armour2014}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=35b0ae8f04297b5f6cd004e3a770653c}{%
+           family={Armour},
+           familyi={A\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Cornell University}%
+      }
+      \strng{namehash}{35b0ae8f04297b5f6cd004e3a770653c}
+      \strng{fullhash}{35b0ae8f04297b5f6cd004e3a770653c}
+      \strng{bibnamehash}{35b0ae8f04297b5f6cd004e3a770653c}
+      \strng{authorbibnamehash}{35b0ae8f04297b5f6cd004e3a770653c}
+      \strng{authornamehash}{35b0ae8f04297b5f6cd004e3a770653c}
+      \strng{authorfullhash}{35b0ae8f04297b5f6cd004e3a770653c}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{My dissertation examines the effects that US Social Security policy changes have on labor supply and application behavior. In my first chapter, I use survey data matched to administrative records to measure the effect of a natural experiment in the provision of information - the introduction of the Social Security Statement - on Social Security Disability Insurance (DI) application behavior. I find that receipt of the Statement, a document gradually introduced in the 1990s which contained personalized information on all Social Security benefits, had a positive, substantial, and statistically significant effect on DI application, amounting to a 62 percent increase over the base rate. The overall effect was entirely driven by individuals reporting a work-limiting condition who were previously not employed. Furthermore, my analysis shows no evidence of applicants "shifting forward" their DI application. In the absence of these new applicants, the 32 percent growth rate of the per-capita DI rolls from 1995-2004 would have been approximately 25 percent, a 20 percent drop. My second chapter examines the impact of the Statement on individuals approaching retirement who are still working. I find that the effects are mixed: individuals working few hours per week prior to Statement receipt markedly increase their hours worked, while those working full time or more decrease their hours. However, it appears that individuals misunderstood that the Statement provided a retirement benefit projection based on constant earnings going forward. After second Statement receipt, those who previously decreased their labor supply then increased it. My third chapter uses program interactions between the two federal disability programs - DI and Supplemental Security Income - to estimate labor supply elasticities of DI beneficiaries. Given wide variation in SSI state supplements temporally and geographically and temporal variation in DI parameters, otherwise similar DI beneficiaries may face a 50 percent or 0 percent disability benefit reduction rate. This variation in marginal rate allows for a direct calculation of labor supply responsiveness to such a rate change. My elasticity estimates - the first for US disability beneficiaries based on differences in benefit reduction rates - are inelastic and low, ranging from -0.14 to -0.36 for the participation elasticity.}
+      \field{note}{Advisor: Richard Burkhauser}
+      \field{title}{Essays In United States Social Security Policy}
+      \field{type}{phdthesis}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1813/38903
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1813/38903
+      \endverb
+    \endentry
+    \entry{Armour-2014-drc}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=35b0ae8f04297b5f6cd004e3a770653c}{%
+           family={Armour},
+           familyi={A\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {NBER Disability Research Center}%
+      }
+      \strng{namehash}{35b0ae8f04297b5f6cd004e3a770653c}
+      \strng{fullhash}{35b0ae8f04297b5f6cd004e3a770653c}
+      \strng{bibnamehash}{35b0ae8f04297b5f6cd004e3a770653c}
+      \strng{authorbibnamehash}{35b0ae8f04297b5f6cd004e3a770653c}
+      \strng{authornamehash}{35b0ae8f04297b5f6cd004e3a770653c}
+      \strng{authorfullhash}{35b0ae8f04297b5f6cd004e3a770653c}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How much work would a 50\% disability insurance benefit offset encourage? An analysis using SSI and SSDI incentives}
+      \field{type}{Presentation at the 2nd Disability Research Consortium}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.nber.org/aging/drc/10312014drcmeeting/5.1Summary.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.nber.org/aging/drc/10312014drcmeeting/5.1Summary.pdf
+      \endverb
+    \endentry
+    \entry{RePEc:cen:wpaper:14-13}{report}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=233375ff16e70bb826f437099690c227}{%
+           family={Drechsler},
+           familyi={D\bibinitperiod},
+           given={J{ö}rg},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Center for Economic Studies, U.S. Census Bureau}%
+      }
+      \strng{namehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{fullhash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{bibnamehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{authorbibnamehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{authornamehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{authorfullhash}{90d5c251e0915a82a63964fbae7d1010}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{One major criticism against the use of synthetic data has been that the efforts necessary to generate useful synthetic data are so in- tense that many statistical agencies cannot afford them. We argue many lessons in this evolving field have been learned in the early years of synthetic data generation, and can be used in the development of new synthetic data products, considerably reducing the required in- vestments. The final goal of the project described in this paper will be to evaluate whether synthetic data algorithms developed in the U.S. to generate a synthetic version of the Longitudinal Business Database (LBD) can easily be transferred to generate a similar data product for other countries. We construct a German data product with infor- mation comparable to the LBD - the German Longitudinal Business Database (GLBD) - that is generated from different administrative sources at the Institute for Employment Research, Germany. In a fu- ture step, the algorithms developed for the synthesis of the LBD will be applied to the GLBD. Extensive evaluations will illustrate whether the algorithms provide useful synthetic data without further adjustment. The ultimate goal of the project is to provide access to multiple synthetic datasets similar to the SynLBD at Cornell to enable comparative studies between countries. The Synthetic GLBD is a first step towards that goal.}
+      \field{month}{2}
+      \field{number}{14-13}
+      \field{title}{{A First Step Towards A {German} {SynLBD}: {C}onstructing A {G}erman {L}ongitudinal {B}usiness {D}atabase}}
+      \field{type}{Working Papers}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://ideas.repec.org/p/cen/wpaper/14-13.html
+      \endverb
+      \verb{url}
+      \verb http://ideas.repec.org/p/cen/wpaper/14-13.html
+      \endverb
+      \keyw{confidentiality; comparative studies; German Longitudinal Business Database; synthetic data}
+    \endentry
+    \entry{SJIAOS-2014b}{article}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=233375ff16e70bb826f437099690c227}{%
+           family={Drechsler},
+           familyi={D\bibinitperiod},
+           given={J{ö}rg},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{fullhash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{bibnamehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{authorbibnamehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{authornamehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{authorfullhash}{90d5c251e0915a82a63964fbae7d1010}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{One major criticism against the use of synthetic data has been that the efforts necessary to generate useful synthetic data are so in- tense that many statistical agencies cannot afford them. We argue many lessons in this evolving field have been learned in the early years of synthetic data generation, and can be used in the development of new synthetic data products, considerably reducing the required in- vestments. The final goal of the project described in this paper will be to evaluate whether synthetic data algorithms developed in the U.S. to generate a synthetic version of the Longitudinal Business Database (LBD) can easily be transferred to generate a similar data product for other countries. We construct a German data product with infor- mation comparable to the LBD - the German Longitudinal Business Database (GLBD) - that is generated from different administrative sources at the Institute for Employment Research, Germany. In a fu- ture step, the algorithms developed for the synthesis of the LBD will be applied to the GLBD. Extensive evaluations will illustrate whether the algorithms provide useful synthetic data without further adjustment. The ultimate goal of the project is to provide access to multiple synthetic datasets similar to the SynLBD at Cornell to enable comparative studies between countries. The Synthetic GLBD is a first step towards that goal.}
+      \field{journaltitle}{Statistical Journal of the IAOS: Journal of the International Association for Official Statistics}
+      \field{number}{2}
+      \field{title}{{A First Step Towards A {German} {SynLBD}: {C}onstructing A {G}erman {L}ongitudinal {B}usiness {D}atabase}}
+      \field{volume}{30}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3233/SJI-140812
+      \endverb
+      \verb{urlraw}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji00812
+      \endverb
+      \verb{url}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji00812
+      \endverb
+      \keyw{confidentiality; comparative studies; US Longitudinal Business Database; synthetic data}
+    \endentry
+    \entry{psd2014b}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=233375ff16e70bb826f437099690c227}{%
+           family={Drechsler},
+           familyi={D\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=b6f783f1a7aa045f613082fa7b50d516}{%
+           family={Domingo-Ferrer},
+           familyi={D\bibinithyphendelim F\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{fullhash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{bibnamehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{authorbibnamehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{authornamehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{authorfullhash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{editorbibnamehash}{b6f783f1a7aa045f613082fa7b50d516}
+      \strng{editornamehash}{b6f783f1a7aa045f613082fa7b50d516}
+      \strng{editorfullhash}{b6f783f1a7aa045f613082fa7b50d516}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{International comparison studies on economic activity are often hampered by the fact that access to business microdata is very limited on an international level. A recently launched project tries to overcome these limitations by improving access to Business Censuses from multiple countries based on synthetic data. Starting from the synthetic version of the longitudinally edited version of the U.S. Business Register (the Longitudinal Business Database, LBD), the idea is to create similar data products in other countries by applying the synthesis methodology developed for the LBD to generate synthetic replicates that could be distributed without confidentiality concerns. In this paper we present some first results of this project based on German business data collected at the Institute for Employment Research.}
+      \field{booktitle}{Privacy in Statistical Databases}
+      \field{isbn}{978-3-319-11256-5}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{Synthetic Longitudinal Business Databases for International Comparisons}
+      \field{volume}{8744}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{243\bibrangedash 252}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/978-3-319-11257-2_19
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1007/978-3-319-11257-2_19
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-3-319-11257-2_19
+      \endverb
+      \keyw{business data; confidentiality; international comparison; multiple imputation; synthetic}
+    \endentry
+    \entry{NBERw20704}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=23e2201fd0a08bee5f8f929d238f6472}{%
+           family={Greenstone},
+           familyi={G\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=949b13e4b4f8dba38734d2702d90cd56}{%
+           family={Mas},
+           familyi={M\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3ce611e29ee68fd2b4dda702723fed4}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Hoai-Luu},
+           giveni={H\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{eaf807b53907fd809159caa53d039576}
+      \strng{fullhash}{eaf807b53907fd809159caa53d039576}
+      \strng{bibnamehash}{eaf807b53907fd809159caa53d039576}
+      \strng{authorbibnamehash}{eaf807b53907fd809159caa53d039576}
+      \strng{authornamehash}{eaf807b53907fd809159caa53d039576}
+      \strng{authorfullhash}{eaf807b53907fd809159caa53d039576}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We estimate the effect of the reduction in credit supply that followed the 2008 financial crisis on the real economy. We predict county lending shocks using variation in pre-crisis bank market shares and estimated bank supply-shifts. Counties with negative predicted shocks experienced declines in small business loan originations, indicating that it is costly for these businesses to find new lenders. Using confidential microdata from the Longitudinal Business Database, we find that the 2007-2009 lending shocks accounted for statistically significant, but economically small, declines in both small firm and overall employment. Predicted lending shocks affected lending but not employment from 1997-2007.}
+      \field{month}{11}
+      \field{number}{20704}
+      \field{series}{Working Paper Series}
+      \field{title}{Do Credit Market Shocks affect the Real Economy? Quasi-Experimental Evidence from the Great Recession and ‘Normal’ Economic Times}
+      \field{type}{Working Paper}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3386/w20704
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nber.org/papers/w20704
+      \endverb
+      \verb{url}
+      \verb http://www.nber.org/papers/w20704
+      \endverb
+    \endentry
+    \entry{RePEc:cen:wpaper:14-10}{report}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=da8c0cc59b107a3e07208005277b7ea9}{%
+           family={Jarmin},
+           familyi={J\bibinitperiod},
+           given={Ron\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=2afe9fc3ac8adfa4b2333463d1e37241}{%
+           family={Louis},
+           familyi={L\bibinitperiod},
+           given={Thomas\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Center for Economic Studies, U.S. Census Bureau}%
+      }
+      \strng{namehash}{d67aa1715e91eca5dddea4fc5b87bced}
+      \strng{fullhash}{d67aa1715e91eca5dddea4fc5b87bced}
+      \strng{bibnamehash}{d67aa1715e91eca5dddea4fc5b87bced}
+      \strng{authorbibnamehash}{d67aa1715e91eca5dddea4fc5b87bced}
+      \strng{authornamehash}{d67aa1715e91eca5dddea4fc5b87bced}
+      \strng{authorfullhash}{d67aa1715e91eca5dddea4fc5b87bced}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{National Statistical offices (NSOs) create official statistics from data collected from survey respondents, government administrative records and other sources. The raw source data is usually considered to be confidential. In the case of the U.S. Census Bureau, confidentiality of survey and administrative records microdata is mandated by statute, and this mandate to protect confidentiality is often at odds with the needs of users to extract as much information from the data as possible. Traditional disclosure protection techniques result in official data products that do not fully utilize the information content of the underlying microdata. Typically, these products take the form of simple aggregate tabulations. In a few cases anonymized public- use micro samples are made available, but these face a growing risk of re-identification by the increasing amounts of information about individuals and firms available in the public domain. One approach for overcoming these risks is to release products based on synthetic data where values are simulated from statistical models designed to mimic the (joint) distributions of the underlying microdata. We discuss re- cent Census Bureau work to develop and deploy such products. We discuss the benefits and challenges involved with extending the scope of synthetic data products in official statistics.}
+      \field{month}{2}
+      \field{number}{14-10}
+      \field{title}{{Expanding The Role Of Synthetic Data At The U.S. Census Bureau}}
+      \field{type}{Working Papers}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://ideas.repec.org/p/cen/wpaper/14-10.html
+      \endverb
+      \verb{url}
+      \verb http://ideas.repec.org/p/cen/wpaper/14-10.html
+      \endverb
+      \keyw{confidentiality; synthetic micro data; official statistics}
+    \endentry
+    \entry{SJIAOS-2014c}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=da8c0cc59b107a3e07208005277b7ea9}{%
+           family={Jarmin},
+           familyi={J\bibinitperiod},
+           given={Ron\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=2afe9fc3ac8adfa4b2333463d1e37241}{%
+           family={Louis},
+           familyi={L\bibinitperiod},
+           given={Thomas\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d67aa1715e91eca5dddea4fc5b87bced}
+      \strng{fullhash}{d67aa1715e91eca5dddea4fc5b87bced}
+      \strng{bibnamehash}{d67aa1715e91eca5dddea4fc5b87bced}
+      \strng{authorbibnamehash}{d67aa1715e91eca5dddea4fc5b87bced}
+      \strng{authornamehash}{d67aa1715e91eca5dddea4fc5b87bced}
+      \strng{authorfullhash}{d67aa1715e91eca5dddea4fc5b87bced}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{National Statistical offices (NSOs) create official statistics from data collected from survey respondents, government administrative records and other sources. The raw source data is usually considered to be confidential. In the case of the U.S. Census Bureau, confidentiality of survey and administrative records microdata is mandated by statute, and this mandate to protect confidentiality is often at odds with the needs of users to extract as much information from the data as possible. Traditional disclosure protection techniques result in official data products that do not fully utilize the information content of the underlying microdata. Typically, these products take the form of simple aggregate tabulations. In a few cases anonymized public- use micro samples are made available, but these face a growing risk of re-identification by the increasing amounts of information about individuals and firms available in the public domain. One approach for overcoming these risks is to release products based on synthetic data where values are simulated from statistical models designed to mimic the (joint) distributions of the underlying microdata. We discuss re- cent Census Bureau work to develop and deploy such products. We discuss the benefits and challenges involved with extending the scope of synthetic data products in official statistics.}
+      \field{journaltitle}{Statistical Journal of the IAOS: Journal of the International Association for Official Statistics}
+      \field{number}{2}
+      \field{title}{{Expanding The Role Of Synthetic Data At The U.S. Census Bureau}}
+      \field{volume}{30}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3233/SJI-140813
+      \endverb
+      \verb{urlraw}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji00813
+      \endverb
+      \verb{url}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji00813
+      \endverb
+      \keyw{confidentiality; synthetic micro data; official statistics}
+    \endentry
+    \entry{RePEc:cen:wpaper:14-12}{report}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=4e4bda5e046e05516863ed7683a7ef14}{%
+           family={Kinney},
+           familyi={K\bibinitperiod},
+           given={Satkartar\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=97d7feab6be2178c08aae7071c2b494c}{%
+           family={Reiter},
+           familyi={R\bibinitperiod},
+           given={Jerome\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Center for Economic Studies, U.S. Census Bureau}%
+      }
+      \strng{namehash}{ead53f277001449140041835875b941f}
+      \strng{fullhash}{ead53f277001449140041835875b941f}
+      \strng{bibnamehash}{ead53f277001449140041835875b941f}
+      \strng{authorbibnamehash}{ead53f277001449140041835875b941f}
+      \strng{authornamehash}{ead53f277001449140041835875b941f}
+      \strng{authorfullhash}{ead53f277001449140041835875b941f}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In most countries, national statistical agencies do not release establishment-level business microdata, because doing so represents too large a risk to establishments’ confidentiality. Agencies potentially can manage these risks by releasing synthetic microdata, i.e., individual establishment records simulated from statistical models de- signed to mimic the joint distribution of the underlying observed data. Previously, we used this approach to generate a public-use version—now available for public use—of the U. S. Census Bureau’s Longitudinal Business Database (LBD), a longitudinal cen- sus of establishments dating back to 1976. While the synthetic LBD has proven to be a useful product, we now seek to improve and expand it by using new synthesis models and adding features. This article describes our efforts to create the second generation of the SynLBD, including synthesis procedures that we believe could be replicated in other contexts.}
+      \field{month}{2}
+      \field{number}{14-12}
+      \field{title}{{Improving The Synthetic Longitudinal Business Database}}
+      \field{type}{Working Papers}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://ideas.repec.org/p/cen/wpaper/14-12.html
+      \endverb
+      \verb{url}
+      \verb http://ideas.repec.org/p/cen/wpaper/14-12.html
+      \endverb
+    \endentry
+    \entry{SJIAOS-2014d}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=4e4bda5e046e05516863ed7683a7ef14}{%
+           family={Kinney},
+           familyi={K\bibinitperiod},
+           given={Satkartar\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=97d7feab6be2178c08aae7071c2b494c}{%
+           family={Reiter},
+           familyi={R\bibinitperiod},
+           given={Jerome\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ead53f277001449140041835875b941f}
+      \strng{fullhash}{ead53f277001449140041835875b941f}
+      \strng{bibnamehash}{ead53f277001449140041835875b941f}
+      \strng{authorbibnamehash}{ead53f277001449140041835875b941f}
+      \strng{authornamehash}{ead53f277001449140041835875b941f}
+      \strng{authorfullhash}{ead53f277001449140041835875b941f}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In most countries, national statistical agencies do not release establishment-level business microdata, because doing so represents too large a risk to establishments’ confidentiality. Agencies potentially can manage these risks by releasing synthetic microdata, i.e., individual establishment records simulated from statistical models de- signed to mimic the joint distribution of the underlying observed data. Previously, we used this approach to generate a public-use version—now available for public use—of the U. S. Census Bureau’s Longitudinal Business Database (LBD), a longitudinal cen- sus of establishments dating back to 1976. While the synthetic LBD has proven to be a useful product, we now seek to improve and expand it by using new synthesis models and adding features. This article describes our efforts to create the second generation of the SynLBD, including synthesis procedures that we believe could be replicated in other contexts.}
+      \field{journaltitle}{Statistical Journal of the IAOS: Journal of the International Association for Official Statistics}
+      \field{number}{2}
+      \field{title}{{Improving The Synthetic Longitudinal Business Database}}
+      \field{volume}{30}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3233/SJI-140808
+      \endverb
+      \verb{urlraw}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji00808
+      \endverb
+      \verb{url}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji00808
+      \endverb
+    \endentry
+    \entry{RePEc:cen:wpaper:14-11}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Center for Economic Studies, U.S. Census Bureau}%
+      }
+      \strng{namehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{fullhash}{094ca324404122dce858a3ca61143c4b}
+      \strng{bibnamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authorbibnamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authornamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authorfullhash}{094ca324404122dce858a3ca61143c4b}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Distributions of business data are typically much more skewed than those for household or individual data and public knowledge of the underlying units is greater. As a results, national statistical offices (NSOs) rarely release establishment or firm-level business microdata due to the risk to respondent confidentiality. One potential approach for overcoming these risks is to release synthetic data where the establishment data are simulated from statistical models designed to mimic the distributions of the real underlying microdata. The US Census Bureau?s Center for Economic Studies in collaboration with Duke University, the National Institute of Statistical Sciences, and Cornell University made available a synthetic public use file for the Longitudinal Business Database (LBD) comprising more than 20 million records for all business establishment with paid employees dating back to 1976. The resulting product, dubbed the SynLBD, was released in 2010 and is the first-ever comprehensive business microdata set publicly released in the United States including data on establishments employment and payroll, birth and death years, and industrial classification. This pa- per documents the scope of projects that have requested and used the SynLBD.}
+      \field{month}{2}
+      \field{number}{14-11}
+      \field{title}{{Looking Back On Three Years Of Using The {S}ynthetic {LBD} Beta}}
+      \field{type}{Working Papers}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://ideas.repec.org/p/cen/wpaper/14-11.html
+      \endverb
+      \verb{url}
+      \verb http://ideas.repec.org/p/cen/wpaper/14-11.html
+      \endverb
+      \keyw{confidentiality; comparative studies; US Longitudinal Business Database; synthetic data}
+    \endentry
+    \entry{SJIAOS-2014a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{fullhash}{094ca324404122dce858a3ca61143c4b}
+      \strng{bibnamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authorbibnamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authornamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authorfullhash}{094ca324404122dce858a3ca61143c4b}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Distributions of business data are typically much more skewed than those for household or individual data and public knowledge of the underlying units is greater. As a results, national statistical offices (NSOs) rarely release establishment or firm-level business microdata due to the risk to respondent confidentiality. One potential approach for overcoming these risks is to release synthetic data where the establishment data are simulated from statistical models designed to mimic the distributions of the real underlying microdata. The US Census Bureau?s Center for Economic Studies in collaboration with Duke University, the National Institute of Statistical Sciences, and Cornell University made available a synthetic public use file for the Longitudinal Business Database (LBD) comprising more than 20 million records for all business establishment with paid employees dating back to 1976. The resulting product, dubbed the SynLBD, was released in 2010 and is the first-ever comprehensive business microdata set publicly released in the United States including data on establishments employment and payroll, birth and death years, and industrial classification. This pa- per documents the scope of projects that have requested and used the SynLBD.}
+      \field{journaltitle}{Statistical Journal of the IAOS: Journal of the International Association for Official Statistics}
+      \field{title}{{Looking Back On Three Years Of Using The {S}ynthetic {LBD} Beta}}
+      \field{volume}{30}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3233/SJI-140811
+      \endverb
+      \verb{urlraw}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji00811
+      \endverb
+      \verb{url}
+      \verb http://content.iospress.com/articles/statistical-journal-of-the-iaos/sji00811
+      \endverb
+      \keyw{confidentiality; comparative studies; US Longitudinal Business Database; synthetic data}
+    \endentry
+    \entry{psd2014a}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=b6f783f1a7aa045f613082fa7b50d516}{%
+           family={Domingo-Ferrer},
+           familyi={D\bibinithyphendelim F\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{fullhash}{094ca324404122dce858a3ca61143c4b}
+      \strng{bibnamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authorbibnamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authornamehash}{094ca324404122dce858a3ca61143c4b}
+      \strng{authorfullhash}{094ca324404122dce858a3ca61143c4b}
+      \strng{editorbibnamehash}{b6f783f1a7aa045f613082fa7b50d516}
+      \strng{editornamehash}{b6f783f1a7aa045f613082fa7b50d516}
+      \strng{editorfullhash}{b6f783f1a7aa045f613082fa7b50d516}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Business Dynamics Statistics is a product of the U.S. Census Bureau that provides measures of business openings and closings, and job creation and destruction, by a variety of cross-classifications (firm and establishment age and size, industrial sector, and geography). Sensitive data are currently protected through suppression. However, as additional tabulations are being developed, at ever more detailed geographic levels, the number of suppressions increases dramatically. This paper explores the option of providing public-use data that are analytically valid and without suppressions, by leveraging synthetic data to replace observations in sensitive cells.}
+      \field{booktitle}{Privacy in Statistical Databases}
+      \field{isbn}{978-3-319-11256-5}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{Using Partially Synthetic Data to Replace Suppression in the Business Dynamics Statistics: Early Results}
+      \field{volume}{8744}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{232\bibrangedash 242}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/978-3-319-11257-2_18
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1007/978-3-319-11257-2_18
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-3-319-11257-2_18
+      \endverb
+      \keyw{synthetic data; statistical disclosure limitation; time-series; local labor markets; gross job flows; confidentiality protection}
+    \endentry
+    \entry{CED2AR-SSBv51}{report}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=951651fe6de95acfd34a7f23a52ac189}{%
+           family={Reeder},
+           familyi={R\bibinitperiod},
+           given={Lori\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=3012bbcddfa04c1957422dbd4533e91c}{%
+           family={Stinson},
+           familyi={S\bibinitperiod},
+           given={Martha},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=bf6532a489ff79d7ad9d546a6495e540}{%
+           family={Trageser},
+           familyi={T\bibinitperiod},
+           given={Kelly\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Cornell Institute for Social and Economic Research}%
+        {{Labor Dynamics Institute} [distributor]. Cornell University}%
+      }
+      \list{location}{1}{%
+        {Ithaca, NY, USA}%
+      }
+      \strng{namehash}{06299c3a151727e55049c36ec936a679}
+      \strng{fullhash}{06299c3a151727e55049c36ec936a679}
+      \strng{bibnamehash}{06299c3a151727e55049c36ec936a679}
+      \strng{authorbibnamehash}{06299c3a151727e55049c36ec936a679}
+      \strng{authornamehash}{06299c3a151727e55049c36ec936a679}
+      \strng{authorfullhash}{06299c3a151727e55049c36ec936a679}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Codebook for the {SIPP} {S}ynthetic {B}eta v5.1 [Codebook file]}
+      \field{type}{{DDI-C} document}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www2.ncrn.cornell.edu/ced2ar-web/codebooks/ssb/v/v51
+      \endverb
+      \verb{url}
+      \verb http://www2.ncrn.cornell.edu/ced2ar-web/codebooks/ssb/v/v51
+      \endverb
+    \endentry
+    \entry{Rutledgeetal_2014}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b16b66e0f7c1c18d86534192387be5dc}{%
+           family={Rutledge},
+           familyi={R\bibinitperiod},
+           given={Mathew\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=331c40f21a43df9afa5fdb59db0ce6b5}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={April\bibnamedelima Yanyuan},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ae8b464d65635433e459fbef7b0e5e8}{%
+           family={Vitagliano},
+           familyi={V\bibinitperiod},
+           given={Francis\bibnamedelima M.},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Center for Retirement Research at Boston College}%
+      }
+      \strng{namehash}{acba20954f46c6262b86a9deab22b872}
+      \strng{fullhash}{acba20954f46c6262b86a9deab22b872}
+      \strng{bibnamehash}{acba20954f46c6262b86a9deab22b872}
+      \strng{authorbibnamehash}{acba20954f46c6262b86a9deab22b872}
+      \strng{authornamehash}{acba20954f46c6262b86a9deab22b872}
+      \strng{authorfullhash}{acba20954f46c6262b86a9deab22b872}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The U.S. government subsidizes retirement saving through 401(k) plans with $61.4 billion in tax expenditures annually, but the question of whether these tax incentives are effective in increasing saving remains unanswered. Using longitudinal U.S. Social Security Administration data on tax-deferred earnings linked to the Survey of Income and Program Participation, the project examines whether the â€œcatch-up provision,â€� which was enacted in 2001 and allows workers over age 50 to contribute more to their 401(k) plans, has been effective in increasing earnings deferrals. Compared with similar workers under age 50, the study finds that contributions increased by $540 more among age-50-plus individuals who had approached the 401(k) tax-deferral limits prior to turning 50, suggesting that the older individuals respond to the expanded tax incentives. For this group, the elasticity of retirement savings to the tax incentive is quite high: a one-dollar increase in the tax-deferred limit leads to an immediate 49-cent increase in 401(k) contributions.}
+      \field{month}{11}
+      \field{number}{CRR WP 2014-17}
+      \field{title}{Do tax incentives increase 401(K) retirement saving? Evidence from the adoption of catch-up contributions}
+      \field{type}{Working Paper}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.2139/ssrn.2530026
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.2139/ssrn.2530026
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.2139/ssrn.2530026
+      \endverb
+    \endentry
+    \entry{Abowd2013}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=383eae2cabd2250cfae3ea5e47d15ced}{%
+           family={Stinson},
+           familyi={S\bibinitperiod},
+           given={Martha\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{3806af497c2e2d0a1b4f354f1224adcc}
+      \strng{fullhash}{3806af497c2e2d0a1b4f354f1224adcc}
+      \strng{bibnamehash}{3806af497c2e2d0a1b4f354f1224adcc}
+      \strng{authorbibnamehash}{3806af497c2e2d0a1b4f354f1224adcc}
+      \strng{authornamehash}{3806af497c2e2d0a1b4f354f1224adcc}
+      \strng{authorfullhash}{3806af497c2e2d0a1b4f354f1224adcc}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0034-6535}
+      \field{journaltitle}{Review of Economics and Statistics}
+      \field{month}{1}
+      \field{title}{Estimating Measurement Error in Annual Job Earnings: A Comparison of Survey and Administrative Data}
+      \field{year}{2013}
+      \true{nocite}
+      \field{pages}{--}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1162/REST_a_00352
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1162/REST_a_00352
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1162/REST_a_00352
+      \endverb
+      \warn{\item Range field 'pages' in entry 'Abowd2013' is malformed, falling back to literal}
+    \endentry
+    \entry{Improved-Access-Abowd-SOLE-20130503}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7742b9bcb4df591ad428b0f70ab59f96}
+      \strng{fullhash}{7742b9bcb4df591ad428b0f70ab59f96}
+      \strng{bibnamehash}{7742b9bcb4df591ad428b0f70ab59f96}
+      \strng{authorbibnamehash}{7742b9bcb4df591ad428b0f70ab59f96}
+      \strng{authornamehash}{7742b9bcb4df591ad428b0f70ab59f96}
+      \strng{authorfullhash}{7742b9bcb4df591ad428b0f70ab59f96}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Eighteenth Annual Meetings of the Society of Labor Economists}
+      \field{title}{Improved Research Access to {Census Bureau} Linked Administrative Data via Public-use Products}
+      \field{year}{2013}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.sole-jole.org/Abowd-Data.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sole-jole.org/Abowd-Data.pdf
+      \endverb
+    \endentry
+    \entry{CreationSSB}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=410781ff3852f08677cea851e01dae7c}{%
+           family={Benedetto},
+           familyi={B\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=3012bbcddfa04c1957422dbd4533e91c}{%
+           family={Stinson},
+           familyi={S\bibinitperiod},
+           given={Martha},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Census Bureau}%
+      }
+      \strng{namehash}{d620d31dc96d95bfc1f6fa4192ffb2aa}
+      \strng{fullhash}{d620d31dc96d95bfc1f6fa4192ffb2aa}
+      \strng{bibnamehash}{d620d31dc96d95bfc1f6fa4192ffb2aa}
+      \strng{authorbibnamehash}{d620d31dc96d95bfc1f6fa4192ffb2aa}
+      \strng{authornamehash}{d620d31dc96d95bfc1f6fa4192ffb2aa}
+      \strng{authorfullhash}{d620d31dc96d95bfc1f6fa4192ffb2aa}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{The Creation and Use of the {SIPP} {Synthetic} {Beta}}
+      \field{type}{techreport}
+      \field{year}{2013}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1813/43924
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1813/43924
+      \endverb
+    \endentry
+    \entry{Benedettoetal_2013}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=410781ff3852f08677cea851e01dae7c}{%
+           family={Benedetto},
+           familyi={B\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=3012bbcddfa04c1957422dbd4533e91c}{%
+           family={Stinson},
+           familyi={S\bibinitperiod},
+           given={Martha},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {US Census Bureau}%
+      }
+      \strng{namehash}{d620d31dc96d95bfc1f6fa4192ffb2aa}
+      \strng{fullhash}{d620d31dc96d95bfc1f6fa4192ffb2aa}
+      \strng{bibnamehash}{d620d31dc96d95bfc1f6fa4192ffb2aa}
+      \strng{authorbibnamehash}{d620d31dc96d95bfc1f6fa4192ffb2aa}
+      \strng{authornamehash}{d620d31dc96d95bfc1f6fa4192ffb2aa}
+      \strng{authorfullhash}{d620d31dc96d95bfc1f6fa4192ffb2aa}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The creation and use of the SIPP Synthetic Beta}
+      \field{type}{techreport}
+      \field{year}{2013}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.census.gov/content/dam/Census/programs-surveys/sipp/methodology/SSBdescribe_nontechnical.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.census.gov/content/dam/Census/programs-surveys/sipp/methodology/SSBdescribe_nontechnical.pdf
+      \endverb
+    \endentry
+    \entry{BertrandKamenicaPan2013}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a25cba6b139b5ccffa7a9dcf8252a692}{%
+           family={Bertrand},
+           familyi={B\bibinitperiod},
+           given={Marianne},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59edb16f289e64c5bec6097a2596b10e}{%
+           family={Kamenica},
+           familyi={K\bibinitperiod},
+           given={Emir},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=909c0ab99706d471658416c25ea577dd}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Chicago Booth}%
+      }
+      \strng{namehash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{fullhash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{bibnamehash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{authorbibnamehash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{authornamehash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{authorfullhash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We examine causes and consequences of relative income within households. We establish that gender identity - in particular, an aversion to the wife earning more than the husband - impacts marriage formation, the wife's labor force participation, the wife's income conditional on working, satisfaction with the marriage, divorce, and the division of home production. The distribution of the share of household income earned by the wife exhibits a sharp cliff at 0.5, which suggests that a couple is less willing to match if her income exceeds his. Within marriage markets, when a randomly chosen woman becomes more likely to earn more than a randomly chosen man, the marriage rates decline. Within couples, if the wife's potential income (based on her demographics) is likely to exceed the husband's, the wife is less likely to be in the labor force and earns less than her potential if she does work. Couples where the wife earns more than the husband are less satisfied with their marriage and are more likely to divorce. Finally, based on time use surveys, the gender gap in non-market work is larger if the wife earns more than the husband.}
+      \field{number}{13-08}
+      \field{title}{Gender Identity and Relative Income within Households}
+      \field{type}{Research Paper}
+      \field{year}{2013}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.2139/ssrn.2216750
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.2139/ssrn.2216750
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.2139/ssrn.2216750
+      \endverb
+    \endentry
+    \entry{nber19023}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a25cba6b139b5ccffa7a9dcf8252a692}{%
+           family={Bertrand},
+           familyi={B\bibinitperiod},
+           given={Marianne},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59edb16f289e64c5bec6097a2596b10e}{%
+           family={Kamenica},
+           familyi={K\bibinitperiod},
+           given={Emir},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=909c0ab99706d471658416c25ea577dd}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {NBER}%
+      }
+      \strng{namehash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{fullhash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{bibnamehash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{authorbibnamehash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{authornamehash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \strng{authorfullhash}{f3564dc96fa79c1ec8eae20a83091b32}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We examine causes and consequences of relative income within households. We establish that gender identity - in particular, an aversion to the wife earning more than the husband - impacts marriage formation, the wife's labor force participation, the wife's income conditional on working, marriage satisfaction, likelihood of divorce, and the division of home production. The distribution of the share of household income earned by the wife exhibits a sharp cliff at 0.5, which suggests that a couple is less willing to match if her income exceeds his. Within marriage markets, when a randomly chosen woman becomes more likely to earn more than a randomly chosen man, marriage rates decline. Within couples, if the wife's potential income (based on her demographics) is likely to exceed the husband's, the wife is less likely to be in the labor force and earns less than her potential if she does work. Couples where the wife earns more than the husband are less satisfied with their marriage and are more likely to divorce. Finally, based on time use surveys, the gender gap in non-market work is larger if the wife earns more than the husband.}
+      \field{month}{5}
+      \field{number}{19023}
+      \field{title}{Gender Identity and Relative Income within Households}
+      \field{type}{Working Paper}
+      \field{year}{2013}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3386/w19023
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nber.org/papers/w19023
+      \endverb
+      \verb{url}
+      \verb http://www.nber.org/papers/w19023
+      \endverb
+    \endentry
+    \entry{ISI2013-3}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=233375ff16e70bb826f437099690c227}{%
+           family={Drechsler},
+           familyi={D\bibinitperiod},
+           given={J{ö}rg},
+           giveni={J\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{fullhash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{bibnamehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{authorbibnamehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{authornamehash}{90d5c251e0915a82a63964fbae7d1010}
+      \strng{authorfullhash}{90d5c251e0915a82a63964fbae7d1010}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings 59th ISI World Statistics Congress, 25-30 August 2013, Hong Kong (Session STS062)}
+      \field{isbn}{978-90-73592-34-6}
+      \field{title}{Replicating the {S}ynthetic {LBD} with {G}erman Establishment Data}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2014}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{2291\bibrangedash 2296}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb http://2013.isiproceedings.org
+      \endverb
+      \verb{url}
+      \verb http://2013.isiproceedings.org
+      \endverb
+    \endentry
+    \entry{Saioc_phdthesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=95a2c88c59287aa7a25fbb31d2596c29}{%
+           family={Saioc},
+           familyi={S\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of California, Irvine}%
+      }
+      \strng{namehash}{95a2c88c59287aa7a25fbb31d2596c29}
+      \strng{fullhash}{95a2c88c59287aa7a25fbb31d2596c29}
+      \strng{bibnamehash}{95a2c88c59287aa7a25fbb31d2596c29}
+      \strng{authorbibnamehash}{95a2c88c59287aa7a25fbb31d2596c29}
+      \strng{authornamehash}{95a2c88c59287aa7a25fbb31d2596c29}
+      \strng{authorfullhash}{95a2c88c59287aa7a25fbb31d2596c29}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Essays on Public Policy and Real Estate Dynamics}
+      \field{type}{phdthesis}
+      \field{year}{2013}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://search.proquest.com/docview/1415453049
+      \endverb
+      \verb{url}
+      \verb http://search.proquest.com/docview/1415453049
+      \endverb
+    \endentry
+    \entry{ssb_v5_1_codebook}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb461c0c6976b357452502c0cb338c70}{%
+           family={{U.S. Census Bureau}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Census Bureau}%
+      }
+      \strng{namehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{fullhash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{bibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorbibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authornamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorfullhash}{fb461c0c6976b357452502c0cb338c70}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This codebook documents version 5.0 of the SIPP Synthetic Beta (SSB). The SSB is a set of files containing individual-level data synthesized from linked survey and administrative data. The SSB is produced by the US Census Bureau as part of a joint project with the Social Security Administration (SSA), and the Internal Revenue Service (IRS). The goal of the project is to make some of the benefits of linked survey and administrative data available to researchers outside of restricted‐access Census Bureau facilities in a manner that protects the confidentiality of the underlying data.}
+      \field{title}{Codebook for {SIPP} {Synthetic} {Beta} version 5.1}
+      \field{type}{techreport}
+      \field{year}{2013}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1813/42335
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1813/42335
+      \endverb
+    \endentry
+    \entry{SSB5.1}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb461c0c6976b357452502c0cb338c70}{%
+           family={{U.S. Census Bureau}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {{U.S. Census Bureau} [producer]}%
+        {Cornell University, Synthetic Data Server [distributor]}%
+      }
+      \list{location}{2}{%
+        {Washington,DC}%
+        {Ithaca, NY, USA}%
+      }
+      \list{organization}{1}{%
+        {Cornell University, Synthetic Data Server [distributor]}%
+      }
+      \strng{namehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{fullhash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{bibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorbibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authornamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorfullhash}{fb461c0c6976b357452502c0cb338c70}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Computer file}
+      \field{title}{{SIPP} {S}ynthetic {B}eta Version 5.1}
+      \field{type}{[Computer file]}
+      \field{year}{2013}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www2.vrdc.cornell.edu/news/data/sipp-synthetic-beta-file/
+      \endverb
+      \verb{url}
+      \verb http://www2.vrdc.cornell.edu/news/data/sipp-synthetic-beta-file/
+      \endverb
+    \endentry
+    \entry{CED2AR-SynLBDv2}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e746995b5029dc853049b046194fbf97}{%
+           family={Vilhuber},
+           familyi={V\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{3}{%
+        {{Comprehensive Extensible Data Documentation and Access Repository (CED2AR)}, Cornell Institute for Social}%
+        {Economic Research}%
+        {Labor Dynamics Institute [distributor]. Cornell University}%
+      }
+      \list{location}{1}{%
+        {Ithaca, NY, USA}%
+      }
+      \strng{namehash}{e746995b5029dc853049b046194fbf97}
+      \strng{fullhash}{e746995b5029dc853049b046194fbf97}
+      \strng{bibnamehash}{e746995b5029dc853049b046194fbf97}
+      \strng{authorbibnamehash}{e746995b5029dc853049b046194fbf97}
+      \strng{authornamehash}{e746995b5029dc853049b046194fbf97}
+      \strng{authorfullhash}{e746995b5029dc853049b046194fbf97}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Codebook for the Synthetic LBD Version 2.0 [Codebook file]}
+      \field{type}{DDI-C document}
+      \field{year}{2013}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www2.ncrn.cornell.edu/ced2ar-web/codebooks/synlbd/v/v2
+      \endverb
+      \verb{url}
+      \verb http://www2.ncrn.cornell.edu/ced2ar-web/codebooks/synlbd/v/v2
+      \endverb
+    \endentry
+    \entry{Chenevert_2012}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93cc51426fc19763401890092788602e}{%
+           family={Chenevert},
+           familyi={C\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {US Census Bureau}%
+      }
+      \strng{namehash}{93cc51426fc19763401890092788602e}
+      \strng{fullhash}{93cc51426fc19763401890092788602e}
+      \strng{bibnamehash}{93cc51426fc19763401890092788602e}
+      \strng{authorbibnamehash}{93cc51426fc19763401890092788602e}
+      \strng{authornamehash}{93cc51426fc19763401890092788602e}
+      \strng{authorfullhash}{93cc51426fc19763401890092788602e}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The purpose of this p aper is to describe the labor force behavior of married couples where the woman is more educated than her husband, as well as study how this relates to breadwinner status. We see that the fraction of couples where the wife is more educated than the husband is increasing over the time studied , and tha t labor force participation rates of women more educated than their husbands increase as well . Next, I study female breadwinner status by education level of the spouses by replicating Winkler, McBride and Andrews, and extending their work using the SIPP Gold Standard Completed Data and the SIPP Synthetic Beta (SSB). This helps us create a more complete picture of the interaction of household and labor market dynamics.}
+      \field{title}{Changing Levels of Spousal Education and Labor Force Supply}
+      \field{type}{techreport}
+      \field{year}{2012}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://beta.census.gov/people/laborforce/publications/Chenevert_MEA2012.pdf
+      \endverb
+      \verb{url}
+      \verb http://beta.census.gov/people/laborforce/publications/Chenevert_MEA2012.pdf
+      \endverb
+    \endentry
+    \entry{Henriques2012}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4a1af3fac4cf5cbcd92d2f3476adeaa4}{%
+           family={Henriques},
+           familyi={H\bibinitperiod},
+           given={Alice},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{institution}{1}{%
+        {Columbia University}%
+      }
+      \strng{namehash}{4a1af3fac4cf5cbcd92d2f3476adeaa4}
+      \strng{fullhash}{4a1af3fac4cf5cbcd92d2f3476adeaa4}
+      \strng{bibnamehash}{4a1af3fac4cf5cbcd92d2f3476adeaa4}
+      \strng{authorbibnamehash}{4a1af3fac4cf5cbcd92d2f3476adeaa4}
+      \strng{authornamehash}{4a1af3fac4cf5cbcd92d2f3476adeaa4}
+      \strng{authorfullhash}{4a1af3fac4cf5cbcd92d2f3476adeaa4}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This dissertation consists of three essays in applied microeconomics. The first chapter looks at whether the Social Security claiming behavior of husbands respond to the presence of Social Security spouse and survivor benefits paid to wives based on his earnings record. I separately estimate the claiming response to incentives for each of the three types of Social Security benefits: retired worker, spousal, and survivor. This approach departs from the previous literature, which estimates behavioral responses to household incentives. I begin by documenting that failure to maximize household Social Security wealth results in a financial burden borne primarily by the wife. I next estimate husbands' behavioral response to Social Security benefit incentives, with my focus exclusively upon incentives due to the actuarial adjustment from delayed claiming. Variation in incentives comes from rule changes to the Social Security benefit calculation, in addition to the age difference between spouses and the relative strength of the wife's labor force history. I find while husbands are responsive to their own benefit incentives, they are barely responsive to household, spousal, and survivor benefit incentives. A variety of robustness checks looking at segments of the population predicted to be more responsive to incentives provide very similar results to main specification. The second chapter examines the incidence of health insurance coverage for displaced workers during the periods preceding and subsequent to job displacement. Most individuals lose health insurance coverage upon job separation. There is concern that individuals are unable to recover insurance coverage following separation. I find within 18 months following job loss the level of health insurance coverage returns to pre-displacement level. Furthermore, I find that obtaining insurance coverage upon reemployment does not impact wages. The third chapter first examines how much of the fall in poverty among elderly women can be attributed to changes in the distributions of age, marital status, and education of elderly women using the Current Population Survey. Increased educational attainment has put tremendous downward pressure on the poverty rate driven primarily by the shift of high school dropouts to those with a high school diploma. I also find poverty would be slightly lower in the absence of changes to the age distribution and no direct impact on poverty levels due to the changes in distribution of marital status. I also investigate the role of both labor force participation and marital status over the life-cycle on old age outcomes using survey data matched to administrative earnings records from the Census Bureau. I find even after controlling for Social Security and marital status over prime-age years, lifetime earnings and labor force experience still has a significant impact on poverty incidence of elderly women. Projecting poverty for cohorts who have not reached old age, I find increased wages and LFP over the life-cycle places large downward pressure on predicted poverty. Marital status over the life-cycle exerts its own negative impact on poverty.}
+      \field{note}{Advisor: Till von Wachter}
+      \field{title}{Essays in Applied Microeconomics}
+      \field{type}{phdthesis}
+      \field{year}{2012}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/10022/AC:P:11813
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/10022/AC:P:11813
+      \endverb
+    \endentry
+    \entry{Henriques_2012}{report}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=4a1af3fac4cf5cbcd92d2f3476adeaa4}{%
+           family={Henriques},
+           familyi={H\bibinitperiod},
+           given={Alice},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{institution}{1}{%
+        {The Federal Reserve Board}%
+      }
+      \strng{namehash}{4a1af3fac4cf5cbcd92d2f3476adeaa4}
+      \strng{fullhash}{4a1af3fac4cf5cbcd92d2f3476adeaa4}
+      \strng{bibnamehash}{4a1af3fac4cf5cbcd92d2f3476adeaa4}
+      \strng{authorbibnamehash}{4a1af3fac4cf5cbcd92d2f3476adeaa4}
+      \strng{authornamehash}{4a1af3fac4cf5cbcd92d2f3476adeaa4}
+      \strng{authorfullhash}{4a1af3fac4cf5cbcd92d2f3476adeaa4}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A majority of women receive most of their Social Security benefits based upon their husbands' earnings history, but previous research has shown that husbands' benefit claiming is inconsistent with maximizing lifetime benefits for the couple. However, that research assumes husbands choose their claim age based on all Social Security incentives facing the household. I show that husbands' claiming behavior responds to the actuarial incentives built into their own retired worker benefit formula, but not to the incentives built into the spouse and survivor formulas that determine their wives' benefits. This failure to incorporate his spouses' incentives reduces wives' lifetime benefits. Variation in incentives comes from rule changes to the Social Security benefit calculation in addition to the age difference between spouses and the relative strength of the wife's labor force history. A variety of robustness checks looking at segments of the population predicted to be more responsive to incentives provide similar results to the main specification.}
+      \field{month}{3}
+      \field{number}{2012-19}
+      \field{title}{How Does Social Security Claiming Respond to Incentives? Considering Husbands' and Wives' Benefits Separately}
+      \field{type}{Finance and 	Economics Discussion Series Working Paper}
+      \field{year}{2012}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.2139/ssrn.2054772
+      \endverb
+      \verb{urlraw}
+      \verb http://www.federalreserve.gov/pubs/feds/2012/201219/201219pap.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.federalreserve.gov/pubs/feds/2012/201219/201219pap.pdf
+      \endverb
+    \endentry
+    \entry{AbowdStinson2011}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=383eae2cabd2250cfae3ea5e47d15ced}{%
+           family={Stinson},
+           familyi={S\bibinitperiod},
+           given={Martha\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{institution}{1}{%
+        {US Census Bureau}%
+      }
+      \strng{namehash}{3806af497c2e2d0a1b4f354f1224adcc}
+      \strng{fullhash}{3806af497c2e2d0a1b4f354f1224adcc}
+      \strng{bibnamehash}{3806af497c2e2d0a1b4f354f1224adcc}
+      \strng{authorbibnamehash}{3806af497c2e2d0a1b4f354f1224adcc}
+      \strng{authornamehash}{3806af497c2e2d0a1b4f354f1224adcc}
+      \strng{authorfullhash}{3806af497c2e2d0a1b4f354f1224adcc}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{number}{2011-19}
+      \field{title}{Estimating Measurement Error in SIPP Annual Job Earnings: A Comparison of Census Survey and SSA Administrative Data}
+      \field{type}{SEHSD Working Paper}
+      \field{year}{2011}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.census.gov/sipp/workpapr/abowd-stinson-ME-ss-20110707-sehsdworking.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.census.gov/sipp/workpapr/abowd-stinson-ME-ss-20110707-sehsdworking.pdf
+      \endverb
+    \endentry
+    \entry{Kinney_et_al_2011_Appendix}{report}{}
+      \name{author}{6}{}{%
+        {{un=1,uniquepart=given,hash=4e4bda5e046e05516863ed7683a7ef14}{%
+           family={Kinney},
+           familyi={K\bibinitperiod},
+           given={Satkartar\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=97d7feab6be2178c08aae7071c2b494c}{%
+           family={Reiter},
+           familyi={R\bibinitperiod},
+           given={Jerome\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f5fad57ebf2ea934faf53ece80738fa}{%
+           family={Reznek},
+           familyi={R\bibinitperiod},
+           given={Arnold\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=da8c0cc59b107a3e07208005277b7ea9}{%
+           family={Jarmin},
+           familyi={J\bibinitperiod},
+           given={Ron\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Center for Economic Studies, U.S. Census Bureau}%
+      }
+      \strng{namehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{fullhash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{bibnamehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{authorbibnamehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{authornamehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{authorfullhash}{d75eb65f151e5828e22e675295e61c8c}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Appendix to '{T}owards Unrestricted Public Use Business Microdata: The {Synthetic} {Longitudinal} {Business} {Database}'}
+      \field{type}{online document}
+      \field{year}{2011}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.census.gov/ces/pdf/SynLBD_Kinney_et_al_2011_Appendix.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.census.gov/ces/pdf/SynLBD_Kinney_et_al_2011_Appendix.pdf
+      \endverb
+      \keyw{Economic census,data confidentiality,synthetic data,disclosure limitation}
+    \endentry
+    \entry{KinneyEtAl2011}{article}{}
+      \name{author}{6}{}{%
+        {{un=1,uniquepart=given,hash=4e4bda5e046e05516863ed7683a7ef14}{%
+           family={Kinney},
+           familyi={K\bibinitperiod},
+           given={Satkartar\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=97d7feab6be2178c08aae7071c2b494c}{%
+           family={Reiter},
+           familyi={R\bibinitperiod},
+           given={Jerome\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f5fad57ebf2ea934faf53ece80738fa}{%
+           family={Reznek},
+           familyi={R\bibinitperiod},
+           given={Arnold\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=da8c0cc59b107a3e07208005277b7ea9}{%
+           family={Jarmin},
+           familyi={J\bibinitperiod},
+           given={Ron\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing Ltd}%
+      }
+      \strng{namehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{fullhash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{bibnamehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{authorbibnamehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{authornamehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{authorfullhash}{d75eb65f151e5828e22e675295e61c8c}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In most countries, national statistical agencies do not release establishment-level business microdata, because doing so represents too large a risk to establishmentsćonfidentiality. One approach with the potential for overcoming these risks is to release synthetic data; that is, the released establishment data are simulated from statistical models designed to mimic the distributions of the underlying real microdata. In this article, we describe an application of this strategy to create a public use file for the Longitudinal Business Database, an annual economic census of establishments in the United States comprising more than 20 million records dating back to 1976. The U.S. Bureau of the Census and the Internal Revenue Service recently approved the release of these synthetic microdata for public use, making the synthetic Longitudinal Business Database the first-ever business microdata set publicly released in the United States. We describe how we created the synthetic data, evaluated analytical validity, and assessed disclosure risk.}
+      \field{issn}{1751-5823}
+      \field{journaltitle}{International Statistical Review}
+      \field{number}{3}
+      \field{title}{Towards Unrestricted Public Use Business Microdata: The Synthetic Longitudinal Business Database}
+      \field{volume}{79}
+      \field{year}{2011}
+      \true{nocite}
+      \field{pages}{362\bibrangedash 384}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1111/j.1751-5823.2011.00153.x
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1111/j.1751-5823.2011.00153.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/j.1751-5823.2011.00153.x
+      \endverb
+      \keyw{Economic census,data confidentiality,synthetic data,disclosure limitation}
+    \endentry
+    \entry{RePEc:cen:wpaper:11-04}{report}{}
+      \name{author}{6}{}{%
+        {{un=1,uniquepart=given,hash=4e4bda5e046e05516863ed7683a7ef14}{%
+           family={Kinney},
+           familyi={K\bibinitperiod},
+           given={Satkartar\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=97d7feab6be2178c08aae7071c2b494c}{%
+           family={Reiter},
+           familyi={R\bibinitperiod},
+           given={Jerome\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f5fad57ebf2ea934faf53ece80738fa}{%
+           family={Reznek},
+           familyi={R\bibinitperiod},
+           given={Arnold\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=da8c0cc59b107a3e07208005277b7ea9}{%
+           family={Jarmin},
+           familyi={J\bibinitperiod},
+           given={Ron\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Center for Economic Studies, U.S. Census Bureau}%
+      }
+      \strng{namehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{fullhash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{bibnamehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{authorbibnamehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{authornamehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{authorfullhash}{d75eb65f151e5828e22e675295e61c8c}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In most countries, national statistical agencies do not release establishment-level business microdata, because doing so represents too large a risk to establishmentsćonfidentiality. One approach with the potential for overcoming these risks is to release synthetic data; that is, the released establishment data are simulated from statistical models designed to mimic the distributions of the underlying real microdata. In this article, we describe an application of this strategy to create a public use file for the Longitudinal Business Database, an annual economic census of establishments in the United States comprising more than 20 million records dating back to 1976. The U.S. Bureau of the Census and the Internal Revenue Service recently approved the release of these synthetic microdata for public use, making the synthetic Longitudinal Business Database the first-ever business microdata set publicly released in the United States. We describe how we created the synthetic data, evaluated analytical validity, and assessed disclosure risk.}
+      \field{month}{2}
+      \field{number}{11-04}
+      \field{title}{Towards Unrestricted Public Use Business Microdata: The Synthetic Longitudinal Business Database}
+      \field{type}{Working Papers}
+      \field{year}{2011}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://ideas.repec.org/p/cen/wpaper/11-04.html
+      \endverb
+      \verb{url}
+      \verb http://ideas.repec.org/p/cen/wpaper/11-04.html
+      \endverb
+    \endentry
+    \entry{CES-WP-11-04}{report}{}
+      \name{author}{6}{}{%
+        {{un=1,uniquepart=given,hash=4e4bda5e046e05516863ed7683a7ef14}{%
+           family={Kinney},
+           familyi={K\bibinitperiod},
+           given={Satkartar\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=97d7feab6be2178c08aae7071c2b494c}{%
+           family={Reiter},
+           familyi={R\bibinitperiod},
+           given={Jerome\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f5fad57ebf2ea934faf53ece80738fa}{%
+           family={Reznek},
+           familyi={R\bibinitperiod},
+           given={Arnold\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=da8c0cc59b107a3e07208005277b7ea9}{%
+           family={Jarmin},
+           familyi={J\bibinitperiod},
+           given={Ron\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Center for Economic Studies, U.S. Census Bureau}%
+      }
+      \strng{namehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{fullhash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{bibnamehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{authorbibnamehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{authornamehash}{d75eb65f151e5828e22e675295e61c8c}
+      \strng{authorfullhash}{d75eb65f151e5828e22e675295e61c8c}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In most countries, national statistical agencies do not release establishment-level business microdata, because doing so represents too large a risk to establishmentsćonfidentiality. One approach with the potential for overcoming these risks is to release synthetic data; that is, the released establishment data are simulated from statistical models designed to mimic the distributions of the underlying real microdata. In this article, we describe an application of this strategy to create a public use file for the Longitudinal Business Database, an annual economic census of establishments in the United States comprising more than 20 million records dating back to 1976. The U.S. Bureau of the Census and the Internal Revenue Service recently approved the release of these synthetic microdata for public use, making the synthetic Longitudinal Business Database the first-ever business microdata set publicly released in the United States. We describe how we created the synthetic data, evaluated analytical validity, and assessed disclosure risk.}
+      \field{month}{2}
+      \field{number}{11-04}
+      \field{title}{Towards Unrestricted Public Use Business Microdata: The {Synthetic} {Longitudinal} {Business} {Database}}
+      \field{type}{Working Papers}
+      \field{year}{2011}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://ideas.repec.org/p/cen/wpaper/11-04.html
+      \endverb
+      \verb{url}
+      \verb http://ideas.repec.org/p/cen/wpaper/11-04.html
+      \endverb
+    \endentry
+    \entry{LBD_Codebook}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Census Bureau}%
+      }
+      \strng{namehash}{4c087ac4343f27dd796f240ab805bb14}
+      \strng{fullhash}{4c087ac4343f27dd796f240ab805bb14}
+      \strng{bibnamehash}{4c087ac4343f27dd796f240ab805bb14}
+      \strng{authorbibnamehash}{4c087ac4343f27dd796f240ab805bb14}
+      \strng{authornamehash}{4c087ac4343f27dd796f240ab805bb14}
+      \strng{authorfullhash}{4c087ac4343f27dd796f240ab805bb14}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{LBD} Codebook}
+      \field{type}{mimeo}
+      \field{year}{2011}
+      \true{nocite}
+    \endentry
+    \entry{SynLBD_Codebook}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Census Bureau}%
+      }
+      \strng{namehash}{4c087ac4343f27dd796f240ab805bb14}
+      \strng{fullhash}{4c087ac4343f27dd796f240ab805bb14}
+      \strng{bibnamehash}{4c087ac4343f27dd796f240ab805bb14}
+      \strng{authorbibnamehash}{4c087ac4343f27dd796f240ab805bb14}
+      \strng{authornamehash}{4c087ac4343f27dd796f240ab805bb14}
+      \strng{authorfullhash}{4c087ac4343f27dd796f240ab805bb14}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{SynLBD} Codebook}
+      \field{type}{mimeo}
+      \field{year}{2011}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.census.gov/ces/pdf/SynLBD_Codebook.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.census.gov/ces/pdf/SynLBD_Codebook.pdf
+      \endverb
+    \endentry
+    \entry{SSB5.0}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb461c0c6976b357452502c0cb338c70}{%
+           family={{U.S. Census Bureau}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {{U.S. Census Bureau} [producer]}%
+        {Cornell University, Synthetic Data Server [distributor]}%
+      }
+      \list{location}{2}{%
+        {Washington,DC}%
+        {Ithaca, NY, USA}%
+      }
+      \list{organization}{1}{%
+        {Cornell University, Synthetic Data Server [distributor]}%
+      }
+      \strng{namehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{fullhash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{bibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorbibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authornamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorfullhash}{fb461c0c6976b357452502c0cb338c70}
+      \field{extraname}{7}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Computer file}
+      \field{title}{{SIPP} {S}ynthetic {B}eta Version 5.0}
+      \field{type}{[Computer file]}
+      \field{year}{2011}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www2.vrdc.cornell.edu/news/data/sipp-synthetic-beta-file/
+      \endverb
+      \verb{url}
+      \verb http://www2.vrdc.cornell.edu/news/data/sipp-synthetic-beta-file/
+      \endverb
+    \endentry
+    \entry{SynLBD20}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb461c0c6976b357452502c0cb338c70}{%
+           family={{U.S. Census Bureau}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {U.S. Census Bureau}%
+        {Cornell University, Synthetic Data Server [distributor]}%
+      }
+      \list{location}{2}{%
+        {Washington,DC}%
+        {Ithaca, NY, USA}%
+      }
+      \list{organization}{1}{%
+        {Cornell University, Synthetic Data Server [distributor]}%
+      }
+      \strng{namehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{fullhash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{bibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorbibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authornamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorfullhash}{fb461c0c6976b357452502c0cb338c70}
+      \field{extraname}{8}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Synthetic LBD Beta Data Product (SynLBD) is an experimental data product produced by the U.S. Census Bureau in collaboration with Duke University, Cornell University, the National Institute of Statistical Sciences (NISS), the Internal Revenue Service (IRS) and the National Science Foundation (NSF). The purpose of the SynLBD is to provide users with access to a longitudinal business data product that can be used outside of a secure Census Bureau facility. The Census Bureau created version 2 of the SynLBD by synthesizing information on establishments' employment and payroll, establishments' birth and death years, and industrial classification. The Census Disclosure Review Board and their counterparts at IRS have reviewed the content of the file, and allowed the release of these data for public use.}
+      \field{howpublished}{Computer file}
+      \field{title}{Synthetic {LBD} {Beta} Version 2.0}
+      \field{type}{[Computer file]}
+      \field{year}{2011}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www2.vrdc.cornell.edu/news/data/lbd-synthetic-data/
+      \endverb
+      \verb{url}
+      \verb http://www2.vrdc.cornell.edu/news/data/lbd-synthetic-data/
+      \endverb
+    \endentry
+    \entry{benedettogathrightstinson-11301}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=410781ff3852f08677cea851e01dae7c}{%
+           family={Benedetto},
+           familyi={B\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8af0236514d21b795b6a04a1dd81ce7a}{%
+           family={Gathright},
+           familyi={G\bibinitperiod},
+           given={Graton},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=3012bbcddfa04c1957422dbd4533e91c}{%
+           family={Stinson},
+           familyi={S\bibinitperiod},
+           given={Martha},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{institution}{1}{%
+        {US Census Bureau}%
+      }
+      \strng{namehash}{effafd072e73353e0a9c760698befc3e}
+      \strng{fullhash}{effafd072e73353e0a9c760698befc3e}
+      \strng{bibnamehash}{effafd072e73353e0a9c760698befc3e}
+      \strng{authorbibnamehash}{effafd072e73353e0a9c760698befc3e}
+      \strng{authornamehash}{effafd072e73353e0a9c760698befc3e}
+      \strng{authorfullhash}{effafd072e73353e0a9c760698befc3e}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Obtained from http://www.sole-jole.org/11301.pdf on 2012-07-02.}
+      \field{title}{The Earnings Impact of Graduating from College during a Recession}
+      \field{type}{techreport}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{ssb_codebook}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb461c0c6976b357452502c0cb338c70}{%
+           family={{U.S. Census Bureau}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Census Bureau}%
+      }
+      \strng{namehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{fullhash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{bibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorbibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authornamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorfullhash}{fb461c0c6976b357452502c0cb338c70}
+      \field{extraname}{9}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This codebook documents version 5.0 of the SIPP Synthetic Beta (SSB). The SSB is a set of files containing individual-level data synthesized from linked survey and administrative data. The SSB is produced by the US Census Bureau as part of a joint project with the Social Security Administration (SSA), and the Internal Revenue Service (IRS). The goal of the project is to make some of the benefits of linked survey and administrative data available to researchers outside of restricted‐access Census Bureau facilities in a manner that protects the confidentiality of the underlying data.}
+      \field{title}{Codebook for {SIPP} {Synthetic} {Beta} version 5.0}
+      \field{type}{techreport}
+      \field{year}{2010}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1813/43925
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1813/43925
+      \endverb
+    \endentry
+    \entry{drbmemo2010}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb461c0c6976b357452502c0cb338c70}{%
+           family={{U.S. Census Bureau}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Census Bureau}%
+      }
+      \strng{namehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{fullhash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{bibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorbibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authornamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorfullhash}{fb461c0c6976b357452502c0cb338c70}
+      \field{extraname}{10}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{{DRB} {M}emo {S}eptember 20, 2010}
+      \field{type}{techreport}
+      \field{year}{2010}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1813/43926
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1813/43926
+      \endverb
+    \endentry
+    \entry{KohnenReiter_2009}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b3d5ac562595c51ce740a243dce8ae6a}{%
+           family={Kohnen},
+           familyi={K\bibinitperiod},
+           given={Christine\bibnamedelima N.},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97d7feab6be2178c08aae7071c2b494c}{%
+           family={Reiter},
+           familyi={R\bibinitperiod},
+           given={Jerome\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5dcc645ec0ffc32780f81e145d61bfef}
+      \strng{fullhash}{5dcc645ec0ffc32780f81e145d61bfef}
+      \strng{bibnamehash}{5dcc645ec0ffc32780f81e145d61bfef}
+      \strng{authorbibnamehash}{5dcc645ec0ffc32780f81e145d61bfef}
+      \strng{authornamehash}{5dcc645ec0ffc32780f81e145d61bfef}
+      \strng{authorfullhash}{5dcc645ec0ffc32780f81e145d61bfef}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Statistical agencies that own different databases on overlapping subjects can benefit greatly from combining their data. These benefits are passed on to secondary data analysts when the combined data are disseminated to the public. Sometimes combining data across agencies or sharing these data with the public is not possible: one or both of these actions may break promises of confidentiality that have been given to data subjects. We describe an approach that is based on two stages of multiple imputation that facilitates data sharing and dissemination under restrictions of confidentiality. We present new inferential methods that properly account for the uncertainty that is caused by the two stages of imputation. We illustrate the approach by using artificial and genuine data.}
+      \field{journaltitle}{Journal of the Royal Statistical Society}
+      \field{number}{2}
+      \field{title}{Multiple imputation for combining confidential data owned by two agencies}
+      \field{volume}{172}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{511\bibrangedash 528}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1111/j.1467-985X.2008.00574.x
+      \endverb
+      \verb{urlraw}
+      \verb http://onlinelibrary.wiley.com/doi/10.1111/j.1467-985X.2008.00574.x/pdf
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1111/j.1467-985X.2008.00574.x/pdf
+      \endverb
+    \endentry
+    \entry{Smithetal_2009}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=06ab99a7785702b67b6d9d8d3c62034a}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Karen\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59128716d7b83837eac9287bcbca05ea}{%
+           family={Wissoker},
+           familyi={W\bibinitperiod},
+           given={Douglas\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b698591d475796ac977be2f730272ecd}{%
+           family={authors},
+           familyi={a\bibinitperiod},
+           prefix={additional},
+           prefixi={a\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{institution}{2}{%
+        {Urban Institute}%
+        {NORC Evaluation Team}%
+      }
+      \strng{namehash}{a147767b2c62b1d3acf5e89f54a7ac51}
+      \strng{fullhash}{a147767b2c62b1d3acf5e89f54a7ac51}
+      \strng{bibnamehash}{a147767b2c62b1d3acf5e89f54a7ac51}
+      \strng{authorbibnamehash}{a147767b2c62b1d3acf5e89f54a7ac51}
+      \strng{authornamehash}{a147767b2c62b1d3acf5e89f54a7ac51}
+      \strng{authorfullhash}{a147767b2c62b1d3acf5e89f54a7ac51}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The paper provides an independent evaluation of the SIPP Synthetic Beta File. This file, created by the Bureau of the Census, is intended to provide a public use database with similar statistical properties as the confidential Social Security Administration's earnings and benefit data linked to the SIPP. There is much to praise in the Census work. Many univariate distributions were "spot on." Unweighted regression analyses had some problems and results for them were mixed. In policy simulation modeling there were many instances of differences between the Synthetic and actual data that would have led researchers to wrong conclusions.}
+      \field{title}{SSA/SIPP/IRS Synthetic Beta File: Analytic Evaluation}
+      \field{type}{Working Paper}
+      \field{year}{2009}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.urban.org/uploadedpdf/412005_syntheticbetafile.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.urban.org/uploadedpdf/412005_syntheticbetafile.pdf
+      \endverb
+    \endentry
+    \entry{sipp_synthetic_beta_training_final_20071026}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=410781ff3852f08677cea851e01dae7c}{%
+           family={Benedetto},
+           familyi={B\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=3012bbcddfa04c1957422dbd4533e91c}{%
+           family={Stinson},
+           familyi={S\bibinitperiod},
+           given={Martha},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Census Bureau}%
+      }
+      \strng{namehash}{b566bafbd76797390c963a0f2a17b6ca}
+      \strng{fullhash}{b566bafbd76797390c963a0f2a17b6ca}
+      \strng{bibnamehash}{b566bafbd76797390c963a0f2a17b6ca}
+      \strng{authorbibnamehash}{b566bafbd76797390c963a0f2a17b6ca}
+      \strng{authornamehash}{b566bafbd76797390c963a0f2a17b6ca}
+      \strng{authorfullhash}{b566bafbd76797390c963a0f2a17b6ca}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Using the {SIPP} {Synthetic} {Beta} for Analysis}
+      \field{type}{Training provided to participants at a meeting at the U.S. Census Bureau on October 26, 2007}
+      \field{year}{2007}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1813/43930
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1813/43930
+      \endverb
+    \endentry
+    \entry{Abowdetal_2007}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=410781ff3852f08677cea851e01dae7c}{%
+           family={Benedetto},
+           familyi={B\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=383eae2cabd2250cfae3ea5e47d15ced}{%
+           family={Stinson},
+           familyi={S\bibinitperiod},
+           given={Martha\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{institution}{1}{%
+        {AEA Annual Meetings}%
+      }
+      \strng{namehash}{086e931140bc27f0923693d5e0dd6dde}
+      \strng{fullhash}{086e931140bc27f0923693d5e0dd6dde}
+      \strng{bibnamehash}{086e931140bc27f0923693d5e0dd6dde}
+      \strng{authorbibnamehash}{086e931140bc27f0923693d5e0dd6dde}
+      \strng{authornamehash}{086e931140bc27f0923693d5e0dd6dde}
+      \strng{authorfullhash}{086e931140bc27f0923693d5e0dd6dde}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper we examine the earnings covariance matrix generated from a ten-year time series and estimate a variance components model that parameterizes the process generating earnings. We use our estimated variance components to test key hypotheses concerning life-cycle human capital investment and labor supply separately for men and women. Hu- man capital investment models predict that individuals with higher initial earnings have lower growth rates of earnings and that earnings follow a random growth model with individual specific rates of growth due to experience. Life-cycle labor supply models predict that variation in individual productivity affects earnings more than hours supplied. In order to test these hypotheses, we look for permanent individual variance components in the growth rate of earnings and significant auto-correlation in earnings overtime. We also test for the presence of a common component of variation between hours and earnings and explore how this component contributes to earnings relative to hours. We look for evidence to support or contradict the predictions of the models using a new data source â€” a set of SIPP panels linked to administrative tax data on labor market earnings. Our data contain Survey of Income and Program Participation (SIPP) respondents from the five panels conducted by the Census Bureau in the 1990s with linked W-2 wage records filed by employers with the IRS. The sum of these wage records for a given year provides an uncapped annual earnings measure. We use survey information on the number of weeks worked full-time and part-time in a year to estimate annual hours worked. Because of the length of the time period covered (1990-1999), the size of the sample (approximately 230,000 individuals), and the high quality of the earnings measure, these data offer a unique opportunity to re-visit several classic labor economics questions and provide fresh evidence for on-going debate.}
+      \field{title}{The covariance of earnings and hours revisited}
+      \field{type}{Working Paper}
+      \field{year}{2007}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.aeaweb.org/annual\_mtg\_papers/2008/2008\_254.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.aeaweb.org/annual%5C_mtg%5C_papers/2008/2008%5C_254.pdf
+      \endverb
+    \endentry
+    \entry{technicaldescriptionsippsyntheticbetaoct42007}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb461c0c6976b357452502c0cb338c70}{%
+           family={{U.S. Census Bureau}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Census Bureau}%
+      }
+      \strng{namehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{fullhash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{bibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorbibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authornamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorfullhash}{fb461c0c6976b357452502c0cb338c70}
+      \field{extraname}{11}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This codebook documents version 4.1 of the SIPP Synthetic Beta (SSB). The SSB is a set of files containing individual-level data synthesized from linked survey and administrative data. The SSB is produced by the US Census Bureau as part of a joint project with the Social Security Administration (SSA), and the Internal Revenue Service (IRS). The goal of the project is to make some of the benefits of linked survey and administrative data available to researchers outside of restricted‐access Census Bureau facilities in a manner that protects the confidentiality of the underlying data.}
+      \field{month}{10}
+      \field{title}{Codebook for the {SIPP} {Synthetic} {Beta} Version 4.1}
+      \field{type}{techreport}
+      \field{year}{2007}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1813/43927
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1813/43927
+      \endverb
+    \endentry
+    \entry{ssafinal}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=591e867111b9dfeb65cfa6fc98005584}{%
+           family={Abowd},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=3012bbcddfa04c1957422dbd4533e91c}{%
+           family={Stinson},
+           familyi={S\bibinitperiod},
+           given={Martha},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=410781ff3852f08677cea851e01dae7c}{%
+           family={Benedetto},
+           familyi={B\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Census Bureau}%
+      }
+      \strng{namehash}{40de7e1fa3e3216718b49fd990472035}
+      \strng{fullhash}{40de7e1fa3e3216718b49fd990472035}
+      \strng{bibnamehash}{40de7e1fa3e3216718b49fd990472035}
+      \strng{authorbibnamehash}{40de7e1fa3e3216718b49fd990472035}
+      \strng{authornamehash}{40de7e1fa3e3216718b49fd990472035}
+      \strng{authorfullhash}{40de7e1fa3e3216718b49fd990472035}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The creation of public use data that combine variables from the Census Bureau's Survey of Income and Program Participation (SIPP), the Internal Revenue Service's (IRS) individual lifetime earnings data, and the Social Security Administration's (SSA) individual benefit data began as part of ongoing collaborative research at the Census Bureau and SSA. The current project had its genesis with the formation of a joint committee containing representatives from the Census Bureau, SSA, IRS, and the Congressional Budget Office (CBO) that designed a prospective public use file. Aimed at a user community that was primarily interested in national retirement and disability programs, the selection of variables for the proposed SIPP/SSA/IRS-PUF focused on the critical demographic data to be supplied from the SIPP, earnings histories from the IRS data maintained at SSA, and benefit data from SSA’s master beneficiary records. After attempting to determine the feasibility of adding a limited number of variables from the SIPP directly to the linked earnings and benefit data, it was decided that the set of variables that could be added without compromising the confidentiality protection of the existing SIPP public use files was so limited that alternative methods had to be used to create a useful new public use file. The committee agreed to allow the Census Bureau to experiment with the confidentiality protection system known generically as "synthetic data." The actual technique adopted is called partially synthetic data with multiple imputation of missing items. As the term is used in this report, "partially synthetic data" means the release of person-level records containing some variables from the actual responses and other variables where the actual responses have been replaced by values sampled from the posterior predictive distribution for that record, conditional on all of the confidential data. This final report accompanies the delivery of version 4.0 to SSA as part of the fiscal year 2006 Jointly Financed Cooperative Agreement between the Census Bureau and SSA.}
+      \field{title}{Final Report to the {Social Security Administration} on the {SIPP/SSA/IRS} {Public} {Use} {File} {Project}}
+      \field{type}{techreport}
+      \field{year}{2006}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1813/43929
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1813/43929
+      \endverb
+    \endentry
+    \entry{drbmemnov2006}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb461c0c6976b357452502c0cb338c70}{%
+           family={{U.S. Census Bureau}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Census Bureau}%
+      }
+      \strng{namehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{fullhash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{bibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorbibnamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authornamehash}{fb461c0c6976b357452502c0cb338c70}
+      \strng{authorfullhash}{fb461c0c6976b357452502c0cb338c70}
+      \field{extraname}{12}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As the result of a four year joint project between the Census Bureau, the Internal Revenue Service, and the Social Security Administration, the LEHD Program has created an enhanced SIPP file that links a subset of SIPP variables to ad- ministrative earnings and benefits data. We have reviewed this file for disclosure risk and here present our results to the Census Disclosure Review Board. We believe that the procedures we used to create the synthetic data conform to the Census Bureau’s disclosure avoidance requirements and request that the DRB grant permission for the file release.}
+      \field{month}{9}
+      \field{title}{{DRB} Memo on Disclosure Testing the {SIPP} {Synthetic} {Beta}}
+      \field{type}{techreport}
+      \field{year}{2006}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1813/43928
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1813/43928
+      \endverb
+    \endentry
+    \entry{MirandaJarmin2002}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4c087ac4343f27dd796f240ab805bb14}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=841537845d1b8350e7a2992a8c47a625}{%
+           family={Jarmin},
+           familyi={J\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Census Bureau, Center for Economic Studies}%
+      }
+      \strng{namehash}{e3d9b79162c5308e6857ccd47e36aeee}
+      \strng{fullhash}{e3d9b79162c5308e6857ccd47e36aeee}
+      \strng{bibnamehash}{e3d9b79162c5308e6857ccd47e36aeee}
+      \strng{authorbibnamehash}{e3d9b79162c5308e6857ccd47e36aeee}
+      \strng{authornamehash}{e3d9b79162c5308e6857ccd47e36aeee}
+      \strng{authorfullhash}{e3d9b79162c5308e6857ccd47e36aeee}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The LBD is a research dataset constructed at the Census Bureau's Center for Economic Studies. The LBD is an establishment based file created by linking the annual snapshot files from Census Bureau's Business Register over time. It contains high quality longitudinal establishment linkages. Firm level linkages are currently under development at CES. The LBD contains several basic data items such as firm ownership, location, industry, payroll and employment.}
+      \field{number}{CES-WP-02-17}
+      \field{title}{The {Longitudinal} {Business} {Database}}
+      \field{type}{Discussion Paper}
+      \field{year}{2002}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://ideas.repec.org/p/cen/wpaper/02-17.html
+      \endverb
+      \verb{url}
+      \verb http://ideas.repec.org/p/cen/wpaper/02-17.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

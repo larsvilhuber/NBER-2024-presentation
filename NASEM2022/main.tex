@@ -1,0 +1,125 @@
+% !TeX TXS-program:bibliography = txs:///bibtex
+%John M. Abowd and Lars Vilhuber
+% $Id: report_on_SDS_2015_SOLE.Rnw 2647 2015-10-30 15:16:01Z lv39 $
+% $URL: https://forge.cornell.edu/svn/repos/proposals/virtualrdc-hhes/planning/reports/cumulative/report_on_SDS_2015_SOLE.Rnw $
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[12pt,titlepage]{article}
+%TCIDATA{OutputFilter=Latex.dll}
+%------------ External info is stored in these files. Edit at your own risk ---
+%++++++++++++++++++++ Adjust this as necessary ++++++++++++++++++++
+%-------------------- Start of title info -------------------------
+% Use these definitions, since they are also used in headers, PDF info,
+% etc.
+
+\input{titleinfo}
+
+
+%--------------------
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  %%
+
+\date{\myversion
+\\ \vspace*{3em}{THIS VERSION PRELIMINARY AND INCOMPLETE: PLEASE DO NOT CITE}
+}
+%--------------------
+\input{../formats}
+\input{../acrodefs}
+%--------------------
+%try to eliminate the stupid * for \thanks in titlepage
+%\renewcommand\footnotemark{}
+%--------------------
+%----------------------
+%To insert un-numbered footnotes (as on the title page)
+%ref: http://en.wikibooks.org/wiki/LaTeX/Formatting#cite_note-csli_footnotes-0
+\makeatletter
+\def\blfootnote{\xdef\@thefnmark{}\@footnotetext}
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% when ready, uncomment this line
+%\excludecomment{instructions,constraint}
+\excludecomment{instructions}
+
+\title{\mytitle}
+\author{\myauthorA%
+\thanks{Labor Dynamics Institute, Cornell University. The author gratefully acknowledges funding from NSF under Grants 1042181 and 0941226, as well as funding from the Alfred P. Sloan Foundation. This manuscript includes material previously circulated as ``\prevtitle{}''. All opinions are the author's, and do not engage any sponsors, the Census Bureau, or co-authors. }}
+
+\usepackage{../Sweave}
+\begin{document}
+\input{main-concordance}
+\maketitle
+
+
+
+
+
+
+
+
+\begin{abstract}
+\input{../abstract}
+\acresetall
+\end{abstract}
+
+
+\section{Introduction}
+
+In this manuscript, I will describe a proposal to create a scalable and reproducible mechanism to accessing confidential data using synthetic data within a containerized analysis-agnostic setup. The resulting mechanism is scalable, satisfies modern requirements for reproducible analysis, and has desirable attributes in terms of the inferences that can be drawn from its use. I identify key conditions for its success, key among them being researchers' ability to create reproducible code in the first place, and the data provider's ability to assess and reduce the confidentiality risk of the output created by the mechanism at scale.
+
+In order to motivate the mechanism, I draw on a decade-long low-cost experiment conducted at Cornell University in collaboration with the U.S. Census Bureau, using two synthetic data products created from confidential Census Bureau data. We identify the intended outcomes, juxtaposed to the actual outcomes, and some unintential outcomes. 
+
+I then lay out the desirable attributes of a modern data access mechanism that does not entail directly accessing the key data used for analysis. Rather, the initial (first stage) development of the analysis is done using a dataset with lower risk categorization. This can be synthetic data, subsampled data, or reconstructed data. Key is that the data schema be identical to that of the confidential data, and that the low-risk data be ``plausible'' or congenial (cite Xiao-Li Meng) to the intended analysis. The analysis thus embedded in computer code is first verified for reproducibility on the low-risk data, and then run on the confidential data. Output can then be verified (Barrientos et al), and a very low-risk signal given to the user that the output from the low-risk data are inference-equivalent to the confidential data. Failing verification leads to the more traditional validation approach, where confidentialized output is provided to the researcher, based on the analysis run on the confidential data. This consumes some portion, presumably small, of a ``privacy budget'', however accounted for, but is functionally equivalent to the answers provided through the verification mechanism. Finally, some small fraction of analyses may require additional debugging, typically for statistical or computational reasons that are related to, in some weak sense, to low inference validity of the analysis per se. Solving these may require expending additional resources, either by enabling the researcher to access the confidential data more interactively (for instance, through a remote access system), or by using staff resources at the data provider to obtain more robust results.
+
+The data access mechanism proposed here improves on the experimental mechanism at Cornell by trading some analytical validity of the low risk data for vastly greater portability and accessibility of the first stage. Container-based methods can be run on most researcher systems with little training cost, or can be hosted on commercial or academic service providers for a nominal or zero cost to the researcher. The first stage need not carry any running costs for the data provider, similar to how public data is currently generated and then disseminated. The porting of code to secure systems carries no more risk than current methods, due to the high transparency of the containerized systems. Verification and validation carry a much lower computational cost per request than during the experiment, due to the ability to verify reproducibility as a natural component of the workflow.  The computational cost of access to the confidential data is significantly lower than VDE or RDC-based access mechanisms, and is more in line with web-based tools. 
+
+
+\section{The Cornell Experiment}
+\label{sec:sdshistory}
+\input{experiment.tex}
+%\section{Bibliography}
+%
+%A full and up-to-date bibliography can be found at \myhref{http://www2.vrdc.cornell.edu/news/synthetic-data-server/sds-bibliography}{the SDS website}.
+
+\section{A modern approach to deferred access to confidential data}
+\label{sec:modernapproach}
+
+\subsection{Assumptions and Design Goals}
+\label{sec:approach:goals}
+
+
+\subsection{Implementation Example}
+\label{sec:approach:example}
+
+
+
+
+\section{Conclusion}
+\label{sec:conclusion}
+\input{conclusion}
+
+
+\clearpage
+\singlespacing
+	% ------------------------------ Bibliography---------------------
+
+	\bibliographystyle{\mybibstyle}
+	\bibliography{sds-bib/SDS_1042181.bib,sds-bib/synlbd-data.bib,sds-bib/synlbd-documents.bib,sds-bib/ssb-data.bib,sds-bib/ssb-documents.bib,sds-bib/wsc2013.bib,sds-bib/grants.bib,paper.bib}
+
+%	\section{Acronyms used}
+%	\input{acronyms}
+	\newpage
+%\tableofcontents
+
+% Appendix
+\clearpage
+\appendix
+%\part*{APPENDIX}
+%\addcontentsline{toc}{part}{Appendix}
+\setcounter{section}{0}
+\label{sec:appendix}
+\input{appendix}
+
+\end{document}
+

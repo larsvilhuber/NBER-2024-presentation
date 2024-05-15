@@ -1,0 +1,91 @@
+
+\section{History of the Synthetic Data Server}
+\input{../history.tex}
+
+
+%\section{Validation}
+%\input{validation.tex}
+
+\section{Datasets}
+\input{../datasets.tex}
+
+\section{Usage and impact}
+Since the start of the Synthetic Data Server project, account growth has been steady (see Figure~\ref{fig:accounts}). As of 2015 Q4, 186 accounts had been created on the server. In general, the rate of account requests increased subsequent to conference presentations or after specific events, such as the 2014 workshop (held by the University of Michigan NCRN node in collaboration with the U.S. Census Bureau and Cornell University) dedicated to teaching graduate students on how to use and leverage the \ac{SSB}.
+
+\begin{figure}
+\centering
+\caption{Account creation and salient events\label{fig:accounts}}
+\includegraphics{../../outputs/report_on_SDS_2021_ICES-accounts}
+\end{figure}
+
+
+\subsection{Feedback loop}
+Both of the current data providers have incorporated feedback from users into their data products. The \ac{SSB} with which the \ac{SDS} was launched was itself the second public iteration, after the original release of v4.0. The growth of the supporting IT infrastructure, first from its predecessor to the original instantiation of the \ac{SDS}, and subsequently in the 2014 IT upgrade mentioned earlier, reflected the growing interest that followed adaptations. In the case of the \ac{SSB}, such feedback first lead to the incorporation of additional variables in v5.1 \citep{SSB5.1}, and subsequently to further enhancements in v6.0 \citep{SSB6}.
+In the case of the \ac{SynLBD}, only one iteration has so far been released on the \ac{SDS}, but the key shortcomings in the structure of the SynLBD v2.0 \citep{SynLBD20} -- the absence of \ac{NAICS} codes, of any sort of geographic detail, and of indicators of firm structure -- have been reflected in the rejected access applications.
+As a reminder, access is granted when the technical requests are feasibly satisfied by the data on the \ac{SDS}.
+In the case of the SynLBD, we can quantify additional data requested that lead to applications being rejected.
+Out of 100 applications for access to the \ac{SynLBD} received through 2015-08-10, 21 (21\%) were denied because they were not feasible using the synthetic data (this does not take into account applications that were partially feasible, which were generally approved). Of those denied,
+\begin{itemize}
+\item 6 (28.57\%) had requested firm-level variables,
+\item 11 (52.38\%) had requested data to perform conditional geographic analysis, and
+\item 1 (4.76\%) had requested data for specific \ac{NAICS} industries.
+\end{itemize}
+Such numbers, of course, do not take into account potential requestors that did not apply because a reading of the documentation revealed that the analysis was not feasible.
+
+\subsection{Validation requests}
+
+The data are by their nature preliminary, and users are discouraged from using results based
+solely on the synthetic data. Validation requests are encouraged and free, subject to following
+certain rules, outlined on the data providers' websites\footnote{\acf{SSB} Website at the U.S.
+Census Bureau:
+\url{http://www.census.gov/programs-surveys/sipp/methodology/sipp-synthetic-beta-data-product.html},
+ \acf{SynLBD} at the U.S. Census Bureau:
+\url{http://www.census.gov/ces/dataproducts/synlbd/}}. Generally, validation requires that
+users provide all programs and auxiliary input files, documentation of the results similar to a
+disclosure review request at \ac{FSRDC}, and that all programs run error-free
+(replicability requirement). Results obtained from confidential data are subject to all the
+disclosure avoidance protocols in effect at the time of their release. That being said, the
+requirements are no more onerous than generic replication requirements, and turnaround may
+be as short as one week.
+
+An analysis of \ac{SynLBD} validation requests was performed as of 2015-08-10. Out of 79 projects, 5 had requested validation. A recurring issue has been that users are unfamiliar with the constraints imposed by the validation procedure, in particular that all such validation requests are treated as an authorized release of results from an analysis of confidential data, and are thus subject to review by the Census Bureau's \ac{DRB}. In particular, the \emph{quantity} of results requested surpasses not the ability of the confidential servers to compute, but rather is judged to be too high by the rules of the \ac{DRB} (60\% of validation requests).
+
+\input{validation-bertrand.tex}
+\input{validation-coverage.tex}
+
+\begin{Schunk}
+\begin{Sinput}
+> ssb.overlap <- read.csv(file.path(dataalt,"validation_overlap_ssb.csv"),stringsAsFactors = FALSE)
+> ssb.results <- as.data.frame(summaryBy(cmp_overlap_0 ~ user,data=ssb.overlap, FUN = function(x) {c(Mean=mean(x),Median=median(x),quantile(x,probs=c(.75,.95)),Max=max(x),PctGrtThan0=100*mean(x>0))} ))
+> names(ssb.results) <- sub("cmp_overlap_0.","",names(ssb.results))
+> # the print.xtable puts out a tabular env, and removes the first column (user name)
+> print.xtable(xtable(ssb.results[,-1]),file="table_coverage_ssb.tex",tabular.environment = "tabular",floating = FALSE)
+\end{Sinput}
+\end{Schunk}
+
+
+\subsection{Prior and subsequent experience in the Census RDC}
+\label{sec:prior}
+
+
+
+On 2014-10-14, we researched what kind of exposure users of the \ac{SDS} had had to confidential data at the Census Bureau, by investigating whether they had prior or subsequent Census RDC projects. Firgure~\ref{fig:rdcUse} summarizes the results.
+
+
+One of the (initially) unintended consequences was the use of the \ac{SDS} as a gateway to more in-depth use of confidential data, in particular data available through the \ac{FSRDC}. Conversely, once made aware of the availability of data similar in content to the data in the \ac{FSRDC}, researchers may wish to use the synthetic data, if it is sufficient for their research purposes. To assess the extent of such connections with the \ac{FSRDC}, we extracted a list of current and past users of the \ac{SDS} as of July 2014, and asked the Census Bureau to provide information on whether the users were known to the \ac{FSRDC} account management system. The response obtained in October 2014, is summarized in  Figure~\ref{fig:rdcUse}.%
+\footnote{Private correspondence with Barbara Downs, Lead Research Data Center Administrator, October 14, 2014}
+Of the 106 users we identified in this way, 14 were Census internal users, i.e., users who were actively engaged in ongoing Census projects, presumably related to the validation exercises themselves.
+20 other users were also present in some form in the Census RDC system. 11 users had been authorized for at least one RDC project prior to their access to the \ac{SDS}.
+More of interest, however, are the 3 users who obtained Census RDC access after their initial access to the \ac{SDS},
+and the additional 6 who were still waiting for the approval of their RDC project, on average
+516
+days after having started their SDS project.
+We don't have firm evidence of the relationship between the RDC projects and the SDS project, but from personal conversations of the authors with presenters at RDC conferences, at least some of the RDC projects were direct continuation of SDS projects, in domains that were not covered by the synthetic data, but the analysis for which was prepared for on the \ac{SDS}. The average delay between project start on \ac{SDS} and project start on RDC projects for those projects that were authorized was 400 days.
+
+
+\begin{figure}
+\centering
+\caption{Connection between Census RDC usage and Synthetic Data Server}\label{fig:rdcUse}
+\includegraphics{../../outputs/report_on_SDS_ISI2017-useRDCgraph}
+\end{figure}
+
