@@ -1,0 +1,98 @@
+% !TEX program = xelatex
+% !BIB program = biber
+
+\documentclass[12pt,letterpaper]{article}
+% \usepackage[utf8]{inputenc}
+\usepackage{etoolbox}
+% % ======== SET THIS FLAG to indicate whether to use a local or remote bib file
+% \newtoggle{local}
+% %\togglefalse{local}
+% \toggletrue{local}
+\usepackage[usenames]{xcolor}
+\definecolor{myred}{rgb}{1 .1 0}
+\definecolor{myblue}{rgb}{0,.1,1}
+\definecolor{cornellred}{rgb}{0.7,.11,.11}
+\usepackage{hyperref}
+\hypersetup{ %
+pdfpagemode=UseOutlines,%
+pdfauthor={Lars Vilhuber},%
+pdfsubject={Publications},%
+plainpages,%
+colorlinks,%
+	plainpages,%
+	colorlinks,%
+	linkcolor=cornellred,
+	urlcolor=cornellred,
+	filecolor=blue,
+	citecolor=blue,
+}
+
+\usepackage[citestyle=authoryear,maxnames=10,sorting=ydnt,backend=biber]{biblatex}
+
+\author{Lars Vilhuber}
+\date{\today}
+
+
+% \iftoggle{local}{
+	\addbibresource{wsc2013.bib}
+	\addbibresource{wsc2015.bib}
+	\addbibresource{SDS_1042181.bib}
+	\addbibresource{ssb-data.bib}
+	\addbibresource{ssb-documents.bib}
+	\addbibresource{synlbd-data.bib}
+	\addbibresource{synlbd-documents.bib}
+	\title{Publications resulting from support through NSF Grant SDS-1042181}
+% }%else
+% {
+% 	\addbibresource[location=remote]{https://www.ncrn.cornell.edu/wp-content/uploads/2016/10/library.bib}
+% 	\title{Sloan Privacy Bibliography}
+% }
+
+% Clear some stuff from the bibliography
+\AtEveryBibitem{%
+	\clearfield{day}%
+	\clearfield{month}%
+	\clearfield{endday}%
+	\clearfield{endmonth}%
+	\clearlist{language}%
+	\clearfield{issn}%
+	\clearfield{eprint}% - adjust if necessary
+	\iffieldundef{doi}{}{\clearfield{url}}% remove URL field if DOI present    
+}
+\defbibfilter{papers}{
+	type=article or
+	type=inproceedings or
+	type=conference or
+	type=proceedings or
+	type=incollection or 
+	type=inbook
+}
+
+\defbibfilter{collective}{
+	type=incollection or
+	type=inproceedings
+}
+
+\defbibfilter{crossref}{
+	type=book
+}
+
+
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\nocite{*}
+\section{\it \bf Referreed Publications}%\\
+\printbibliography[type=article,heading=none]
+\section{\it \bf Proceedings}%\\
+\printbibliography[filter=collective,heading=none]
+%\section{\it \bf Book chapters}%\\
+%\printbibliography[type=book,heading=none]
+%\printbibliography[type=inbook,heading=none]
+\section{\it \bf Working papers and other documents}%\\
+\printbibliography[type=report,heading=none]
+
+
+\end{document}

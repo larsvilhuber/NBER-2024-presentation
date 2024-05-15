@@ -1,0 +1,23 @@
+%
+%
+%
+
+More generally, the question as to the statistical precision of the results obtained from the synthetic data can be assessed. For each validation request, we captured model parameters from each of the models defined by researchers' programs, run against the confidential data ($\beta_{k,m}$) and the synthetic data ($\beta_{k,m}^*$). Because of the wide variety of models and estimation methods, this did not work always work well, nor does it distinguish between parameters of interest and nuisance or control parameters, for which precision may not be required or achieved. We then computed two measures of ``proximity''  as suggested by \cite{tas2006}: the proximity of  coefficients $\beta_{k,m}$ (estimated from the confidential data) and$\beta_{k,m}^*$ (from the synthetic data) , and a measure of the overlap of their confidence intervals.
+
+To assess the proximity of parameter estimates, we compute
+$$
+t_{\Delta \beta_{k,m}} = \frac{\beta_{k,m} - \beta_{k,m}^*}{\sqrt{s_{k,m}^2 + s_{k,m}^{*2}}}
+$$
+and assess its statistical significance (90\% bilateral). The fraction of insignificant tests across all estimated models and parameters is an indicator of how close the synthetic and confidential models are under the estimated models.
+%
+To compute  the \emph{interval 
+	overlap measure} $J_{k,m}$ for parameter $k$ in model $m$, consider the overlap of confidence intervals $(L,U)$ for $\beta_{k,m}$  and $(L^{*},U^{*})$ for $\beta_{k,m}^*$. Let $L^{over} = \max (L,L^{*} )$ and $U^{over} = \min (U,U^{*})$. Then the average overlap in confidence intervals is
+
+$$
+J_{k,m}^{*} = \frac{1}{2} \left [ \frac{U^{over} - L^{over}}{U-L} + \frac{U^{over} - L^{over}}{U^*-L ^*}        \right ]
+$$
+We then average $J_{k,m}^{*}$ over all estimated models and parameters, by validation request. 
+
+
+
+
