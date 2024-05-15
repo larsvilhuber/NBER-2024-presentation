@@ -1,0 +1,5 @@
+revealjs::revealjs_presentation:
+  widescreen: true
+  center: true
+  transition: slide
+  theme: night
