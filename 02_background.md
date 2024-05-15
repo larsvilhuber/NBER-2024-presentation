@@ -29,20 +29,28 @@ In a sample of over **8,000 replication packages** associated with high-profile 
 
 Statistical agencies and research institutes have explored various ways to scale up access to confidential data, without full (remote) access to confidential data.
 
-- Statistics Canada: RTRA process, 
+- Statistics Canada: [Real Time Remote Access (RTRA)](https://www.statcan.gc.ca/en/microdata/rtra) process, 
 - Norway:  [Microdata.no](microdata.no) system, 
-- Germany/IAB: JoSuA system
+- Germany/IAB: [JoSuA system](https://fdz.iab.de/en/data-access/on-site-use/)
 
 
-## Limitations of other systems
+## Access restrictions
 
 Most such processes have limitations, including in their utility for general purpose analysis
 
-- Most still have some **strong access limitations**
-  - RTRA: 
-  - microdata.no: Institutional MOU (and ony Norwegian residents)
+Most still have some **strong access limitations**
+
+  - RTRA: organizational application process
+  - microdata.no: Institutional MOU (and only Norwegian residents)
   - IAB: proposal process
 
-- Many systems strongly **limit the type of analysis** that is feasible by 
-  - restricting the software keywords that can be used (RTRA), 
-  - by creating a structured new statistical language (microdata.no)
+## Analysis restrictions
+
+Many systems strongly **limit the type of analysis** that is feasible by 
+
+- RTRA: restricting the software keywords that can be used, subset of SAS allowing to "calculate frequencies, means, percentiles, percent distribution, proportions, ratios and shares.  
+- microdata.no: by creating a structured new statistical language (albeit with increasingly sophisticated capabilities)
+
+## Comparison
+
+The comparison researchers and analysts make is (for right or wrong) to the **unfettered use of public-use data**...

@@ -1,5 +1,13 @@
 # Provider perspective: Secure build
 
+## First impressions
+
+![Security risk](images/hacker-security.jpg)
+
+![CC-By-SA 2.0](images/by-sa.png)[^img1]
+
+[^img1]: Image credit [Christopher Scholz](https://www.flickr.com/photos/140988606@N08/27509199696), under [CC-By-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+
 ## Internal build
 
 - Prepare an internal container, compliant with IT security standards
@@ -15,6 +23,7 @@
 - Public "recipe" is the same as for internal
   - possibly up to secure base container - close enough is good enough
   - built by StatAgency itself
+
 
 ## Example: Build internal analysis system
 
@@ -40,6 +49,7 @@ FROM ubuntu-24.04
 USER rstudio
 ```
 
+
 ## Optional elements
 
 While not strictly necessary, containers might contain
@@ -47,9 +57,14 @@ While not strictly necessary, containers might contain
 - development environments (Stata GUI, Jupyter notebooks, Rstudio)
 - standard set of libraries (Stata ado files, R libraries, Python packages)
 
-## Necessary restrictions
+## Public posting
 
-While useful in the public space, when running internally and for pre-vetting,
+Prepared containers and recipes can be posted on public registries:
 
-- containers would be restricted in terms of internet access
-- containers may be built against only known safe sources of packages
+  - post container on public registry ([Docker Hub](https://hub.docker.com), [Google Container Registry](https://cloud.google.com/container-registry), etc.)
+  - post recipe on public repository ([GitHub](https://github.com), [GitLab](https://gitlab.com), etc.)
+
+## Posted on Docker Hub
+
+![Docker Hub](images/dockerhub-stata17.png)
+

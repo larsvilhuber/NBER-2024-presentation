@@ -23,3 +23,6 @@ bibliography: "references.bib"
 
 ```{r, child=c('12_provider.md')}
 ```
+
+# References
+
