@@ -26,10 +26,10 @@ jobs:
         id: imgversion
         run: |
           USER_INPUT=${{ github.event.inputs.IMGVERSION }}
-          echo "::set-output IMGVERSION=value::${USER_INPUT:-"2024-05-15"}"
+          echo "::set-output IMGVERSION=value::${USER_INPUT:-"${{ env.IMGVERSION }}"}"
       # Runs a set of commands using the runners shell
       - name: Run docker for R 
-        uses: docker://larsvilhuber/nber-presentation:$IMGVERSION
+        uses: docker://larsvilhuber/nber-presentation:${{ github.steps.imgversion.output }} 
         with:
           args: "/github/workspace/_build.sh "
           
