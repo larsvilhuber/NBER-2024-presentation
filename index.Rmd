@@ -3,7 +3,23 @@ title: "Using Containers to Validate Research on Confidential Data at Scale"
 author: 
   - "Lars Vilhuber"
 date: May 2024
+bibliography: "references.bib"
 ---
 
-```{r, child=c('intro.md')}
+```{r, child=c('01_intro.md')}
+```
+
+```{r, child=c('02_background.md')}
+```
+
+```{r, child=c('03_quest.md')}
+```
+
+```{r, child=c('10_solution.md')}
+```
+
+```{r, child=c('11_user.md')}
+```
+
+```{r, child=c('12_provider.md')}
 ```

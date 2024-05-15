@@ -3,13 +3,16 @@ on:
   push:
     branches: 
       - main
-  
+  workflow:
+  # query for IMGVERSION, default to latest
+
 jobs:
   create-website:
     runs-on: ubuntu-latest
     env: 
         CENSUS_API_KEY: ${{ secrets.CENSUS_API_KEY }}
-    if: !contains(github.event.head_commit.message, '[skipci]')
+        IMGVERSION: 2024-05-15
+    if: "!contains(github.event.head_commit.message, '[skipci]')"
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
@@ -17,7 +20,7 @@ jobs:
         run: "chmod +x ./_build.sh"
       # Runs a set of commands using the runners shell
       - name: Run docker for R 
-        uses: docker://larsvilhuber/replicability-training-presentation:latest
+        uses: docker://larsvilhuber/nber-presentation:$IMGVERSION
         with:
           args: "/github/workspace/_build.sh "
           
