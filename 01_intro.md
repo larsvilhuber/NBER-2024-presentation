@@ -29,7 +29,7 @@ Concerns about confidentiality in statistical products have increased in the pas
 ## Validation and Verification
 
 - long-running pilot projects with (non-formal) synthetic microdata products (SynLBD, SIPP Synthetic Beta) came to an end in 2022 ([End of life for the Cornell Synthetic Data Server September 30, 2022](https://web.archive.org/web/20230602202220/https://web.archive.org/web/20221130032540/https://www2.vrdc.cornell.edu/news/))
-- not sure how active OPM Verification server was (Barrientos et al (2018))
+- not sure how active OPM Verification server was [@barrientos_providing_2018]
 - scale an issue
 - not done or planned for most synthetic data products
 
