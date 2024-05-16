@@ -39,5 +39,12 @@ bibliography: "references.bib"
 ```{r, child=c('99_tutorials.md')}
 ```
 
+# This presentation
+
+- [Github](https://github.com/larsvilhuber/NBER-2024-presentation)
+- [Presentation](https://larsvilhuber.github.io/NBER-2024-presentation/)
+  - [Dockerfile!](https://github.com/larsvilhuber/NBER-2024-presentation/blob/cae14a22485c2bdf1cb91e1ade5df5893a85f424/build/Dockerfile)
+  - [Container!](https://hub.docker.com/r/larsvilhuber/nber-presentation)
+
 # References
 
