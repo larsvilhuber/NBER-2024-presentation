@@ -670,6 +670,14 @@ both.</p>
 <h1>Possible solution</h1>
 
 </section>
+<section id="containers" class="slide level2">
+<h2>Containers</h2>
+<p>Containers are lightweight, standalone, executable packages that
+contain everything needed to run an application, including the code, a
+runtime, libraries, environment variables, and config files.<a
+href="#/fn1" class="footnote-ref" id="fnref1"
+role="doc-noteref"><sup>1</sup></a></p>
+</section>
 <section id="containerized-validation" class="slide level2">
 <h2>Containerized validation</h2>
 <ul>
@@ -710,9 +718,9 @@ service facilitating that process by making the resources available
 through a web browser</li>
 <li><a href="https://wholetale.org">Wholetale</a> and <a
 href="https://mybinder.org">MyBinder</a> are other (academically
-oriented) services that provide similar functionality<a href="#/fn1"
-class="footnote-ref" id="fnref1"
-role="doc-noteref"><sup>1</sup></a></li>
+oriented) services that provide similar functionality<a href="#/fn2"
+class="footnote-ref" id="fnref2"
+role="doc-noteref"><sup>2</sup></a></li>
 <li>Many universities HPC clusters provide some support
 (<code>Apptainer</code> more popular than <code>Docker</code>)</li>
 </ul>
@@ -769,16 +777,28 @@ all major operating systems for non-commercial use)</li>
 Azure)</li>
 <li>can run on custom cloud infrastructure specialized in running
 containers (<a href="https://nuvolos.cloud">Nuvolos</a>, <a
-href="https://codeocean.com">Codeocean</a>, etc.)</li>
+href="https://codeocean.com">Codeocean</a>, <a
+href="https://www.onyxia.sh/">Onyxia</a>, etc.)</li>
 <li>can be prepared by research institutions for use on their custom
 infrastructure (e.g., NSF-funded <a href="https://wholetale.org">Whole
-Tale project</a>)</li>
+Tale project</a>, self-hosted <a
+href="https://www.onyxia.sh/">Onyxia</a>)</li>
 </ul>
 </section>
 <section id="whole-tale" class="slide level2">
 <h2>Whole Tale</h2>
 <p><a href="https://wholetale.org"><img
 data-src="images/wholetale-home.png" alt="Whole Tale" /></a></p>
+</section>
+<section id="codeocean" class="slide level2">
+<h2>Codeocean</h2>
+<p><a href="https://codeocean.com"><img
+data-src="images/codeocean-home.png" alt="Codeocean" /></a></p>
+</section>
+<section id="onyxia" class="slide level2">
+<h2>Onyxia</h2>
+<p><a href="https://www.onyxia.sh/"><img data-src="images/onyxia.png"
+alt="Onyxia" /></a></p>
 </section>
 <section id="cost-to-user" class="slide level2">
 <h2>Cost to user</h2>
@@ -793,8 +813,11 @@ class="slide level2">
 <section id="run-a-container-from-codeocean" class="slide level2">
 <h2>Run a container from Codeocean</h2>
 <p><img data-src="images/codeocean-left.png"
-alt="Writing code on Codeocean" /> <img
-data-src="images/codeocean-right.png"
+alt="Writing code on Codeocean" /></p>
+</section>
+<section class="slide level2">
+
+<p><img data-src="images/codeocean-right.png"
 alt="Running code on Codeocean" /></p>
 </section>
 <section id="develop-at-will" class="slide level2">
@@ -815,8 +838,10 @@ class="title-slide slide level1">
 data-background-image="images/hacker-security.jpg">
 <h2 data-background-image="images/hacker-security.jpg">First
 impressions</h2>
-<p><img data-src="images/by-sa.png" alt="CC-By-SA 2.0" /><a href="#/fn2"
-class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
+<ul>
+<li><a href="#/fn3" class="footnote-ref" id="fnref3"
+role="doc-noteref"><sup>3</sup></a></li>
+</ul>
 </section>
 <section id="internal-build" class="slide level2">
 <h2>Internal build</h2>
@@ -835,7 +860,8 @@ class="slide level2">
 <h2>Ability to leverage existing experience</h2>
 <ul>
 <li>Can leverage existing container recipes for well-known software
-packages (<code>rocker</code> for R containers, datascience
+packages (<code>rocker</code> for R containers, <a
+href="https://hub.docker.com/r/jupyter/datascience-notebook/">datascience</a>
 containers)</li>
 <li>Can leverage existing containers and harden the OS (if
 necessary)</li>
@@ -1034,7 +1060,7 @@ containers</strong>.</p>
 <ul>
 <li><strong>Mitigation</strong>:
 <ul>
-<li>Off-the-shelf solutions (Codeocean, Whole Tale)</li>
+<li>Off-the-shelf solutions (Codeocean, Whole Tale, Onyxia)</li>
 <li>IT support at universities and research institutions</li>
 </ul></li>
 </ul>
@@ -1049,7 +1075,8 @@ containers</strong>.</p>
 <ul>
 <li>Containers are well-known technology, including in other
 sciences</li>
-<li>Used by online services (Codeocean, but also Overleaf, etc.)</li>
+<li>Used by online services (Codeocean, Onyxia, but also Overleaf,
+etc.)</li>
 </ul>
 </section>
 <section id="scalability" class="slide level2">
@@ -1097,6 +1124,26 @@ long as database schema is the same.</li>
 
 </section>
 
+<section>
+<section id="quick-links-for-the-curious"
+class="title-slide slide level1">
+<h1>Quick links for the curious</h1>
+<ul>
+<li><a
+href="https://www.datacamp.com/tutorial/docker-for-data-science-introduction">https://www.datacamp.com/tutorial/docker-for-data-science-introduction</a></li>
+<li><a href="https://codeocean.com/">CodeOcean</a></li>
+<li><a href="https://wholetale.org/">Whole Tale</a></li>
+<li><a href="https://www.onyxia.sh/">Onyxia</a></li>
+<li><a href="https://hub.docker.com/">Docker Hub</a></li>
+<li><a href="https://github.com/AEADataEditor/docker-stata">Stata on
+Docker</a></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<p><img data-src="images/codeocean-chahrour.png"
+alt="MATLAB on Codeocean" /></p>
+</section></section>
 <section id="references" class="title-slide slide level1 unnumbered">
 <h1 class="unnumbered">References</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
@@ -1115,15 +1162,19 @@ href="https://doi.org/10.1145/2723872.2723882">https://doi.org/10.1145/2723872.2
 role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1"><p>An earlier version of this presentation mentioned <a
+<li id="fn1"><p><a
+href="https://www.datacamp.com/tutorial/docker-for-data-science-introduction">https://www.datacamp.com/tutorial/docker-for-data-science-introduction</a><a
+href="#/fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>An earlier version of this presentation mentioned <a
 href="https://gigantum.com">Gigantum</a>. As is not unusual in this
-space, Gigantum no longer functions as a company.<a href="#/fnref1"
+space, Gigantum no longer functions as a company.<a href="#/fnref2"
 class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p>Image credit <a
+<li id="fn3"><p>Image credit <a
 href="https://www.flickr.com/photos/140988606@N08/27509199696">Christopher
-Scholz</a>, under <a
+Scholz</a>, under <img data-src="images/by-sa.png"
+alt="CC-By-SA 2.0" /><a
 href="https://creativecommons.org/licenses/by-sa/2.0/">CC-By-SA
-2.0</a><a href="#/fnref2" class="footnote-back"
+2.0</a><a href="#/fnref3" class="footnote-back"
 role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>

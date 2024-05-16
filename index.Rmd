@@ -35,5 +35,9 @@ bibliography: "references.bib"
 
 # Thank you
 
+
+```{r, child=c('99_tutorials.md')}
+```
+
 # References
 

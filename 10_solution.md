@@ -1,5 +1,11 @@
 # Possible solution
 
+## Containers
+
+Containers are lightweight, standalone, executable packages that contain everything needed to run an application, including the code, a runtime, libraries, environment variables, and config files.[^docker]
+
+[^docker]: [https://www.datacamp.com/tutorial/docker-for-data-science-introduction](https://www.datacamp.com/tutorial/docker-for-data-science-introduction)
+
 ## Containerized validation
 
 - **Containers**, 

@@ -3,9 +3,9 @@
 ## First impressions {data-background-image="images/hacker-security.jpg"}
 
 
-![CC-By-SA 2.0](images/by-sa.png)[^img1]
+- [^img1]
 
-[^img1]: Image credit [Christopher Scholz](https://www.flickr.com/photos/140988606@N08/27509199696), under [CC-By-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+[^img1]: Image credit [Christopher Scholz](https://www.flickr.com/photos/140988606@N08/27509199696), under ![CC-By-SA 2.0](images/by-sa.png)[CC-By-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
 ## Internal build
 
@@ -16,7 +16,7 @@
 
 ## Ability to leverage existing experience
 
-- Can leverage existing container recipes for well-known software packages (`rocker` for R containers, datascience containers)
+- Can leverage existing container recipes for well-known software packages (`rocker` for R containers, [datascience](https://hub.docker.com/r/jupyter/datascience-notebook/) containers)
 - Can leverage existing containers and harden the OS (if necessary)
 - Already has process in place to securely vet imported libraries and packages - can be **reused**
 
