@@ -3,3 +3,11 @@ revealjs::revealjs_presentation:
   center: true
   transition: slide
   theme: night
+  self_contained: false
+  reveal_options:
+      slideNumber: true
+      previewLinks: false
+      chalkboard:
+        theme: chalkboard
+        toggleNotesButton: true
+  reveal_plugins: ["chalkboard"]
