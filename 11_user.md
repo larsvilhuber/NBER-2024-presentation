@@ -39,22 +39,12 @@ tail(readLines("run_docker.sh"),n=1)
 ## Run a container from Codeocean
 
 ![Writing code on Codeocean](images/codeocean-left.png)
-
 ![Running code on Codeocean](images/codeocean-right.png)
 
 ## Develop at will
 
 - Arbitrary Stata, R, Python, etc. code
 
-## Submit for validation
-
-- Submit container *recipe* (`Dockerfile`) and code for validation to *StatAgency.gov*
-
-```
-./Dockerfile
-./code/01_prepare_data.R
-./code/02_run_analysis.R
-./code/03_create_figures.R
-```
+![Develop at will](images/ContainerizedDataCycle.drawio-3.png)
 
 

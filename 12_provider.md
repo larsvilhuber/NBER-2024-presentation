@@ -1,8 +1,7 @@
 # Provider perspective: Secure build
 
-## First impressions
+## First impressions {data-background-image="images/hacker-security.jpg"}
 
-![Security risk](images/hacker-security.jpg)
 
 ![CC-By-SA 2.0](images/by-sa.png)[^img1]
 
@@ -14,9 +13,12 @@
   - secure configuration of container running system (base system)
   - add layer of common software (Stata, R, Python, various combinations) for **analysis system**
   - test suite (scripted) for updates
+
+## Ability to leverage existing experience
+
 - Can leverage existing container recipes for well-known software packages (`rocker` for R containers, datascience containers)
 - Can leverage existing containers and harden the OS (if necessary)
-
+- Already has process in place to securely vet imported libraries and packages - can be **reused**
 
 ## Public build
 
@@ -68,3 +70,8 @@ Prepared containers and recipes can be posted on public registries:
 
 ![Docker Hub](images/dockerhub-stata17.png)
 
+## Also required: data
+
+But if validation and verification are a key part of it, then data quality can be lower (**plausible, not analytically valid**)
+
+![coverage](images/sds-coverage.png)

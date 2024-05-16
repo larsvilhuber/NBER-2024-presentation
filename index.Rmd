@@ -24,5 +24,16 @@ bibliography: "references.bib"
 ```{r, child=c('12_provider.md')}
 ```
 
+```{r, child=c('13_validation.md')}
+```
+
+```{r, child=c('20_challenges.md')}
+```
+
+```{r, child=c('21_advantages.md')}
+```
+
+# Thank you
+
 # References
 
