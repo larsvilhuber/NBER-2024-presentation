@@ -25,7 +25,7 @@ SDS validation required typically substantial human debugging
 
 In a sample of over **8,000 replication packages** associated with high-profile economics articles, **only 30% had some sort of master script**. 
 
-## Other systems
+# Other systems
 
 Statistical agencies and research institutes have explored various ways to scale up access to confidential data, without full (remote) access to confidential data.
 
@@ -53,4 +53,4 @@ Many systems strongly **limit the type of analysis** that is feasible by
 
 ## Comparison
 
-The comparison researchers and analysts make is (for right or wrong) to the **unfettered use of public-use data**...
+The comparison researchers and analysts make is (for right or wrong) to the **unfettered use of public-use data** that **they trust** ...
