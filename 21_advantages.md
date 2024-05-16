@@ -3,7 +3,7 @@
 ## Existing technology
 
 - Containers are well-known technology, including in other sciences 
-- Used by online services (Codeocean, but also Overleaf, etc.)
+- Used by online services (Codeocean, Onyxia, but also Overleaf, etc.)
 
 ## Scalability
 
