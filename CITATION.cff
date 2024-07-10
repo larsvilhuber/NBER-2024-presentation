@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Using Containers to Validate Research on Confidential Data
+  at Scale
+message: >-
+  If you like this presentation, cite it!
+type: presentation
+authors:
+  - given-names: Lars
+    family-names: Vilhuber
+    email: lars.vilhuber@cornell.edu
+    affiliation: Cornell University
+    orcid: 'https://orcid.org/0000-0001-5733-8932'
+repository-code: 'https://github.com/larsvilhuber/NBER-2024-presentation/'
+url: 'https://larsvilhuber.github.io/NBER-2024-presentation/'
+abstract: >-
+  Presentation about a use case for containers in social
+  science research when data are confidential.
+keywords:
+  - synthetic data
+  - containers
+  - reproducibility
+license: CC-BY-NC-4.0
+version: v20240524
+date-released: '2024-05-24'
